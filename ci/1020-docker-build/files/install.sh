@@ -11,88 +11,73 @@ env
 whoami
 pwd
 
-yum update -y
-yum install epel-release -y
-yum install dnf -y
-dnf --assumeyes update
 
-dnf --assumeyes install perl 
-dnf --assumeyes install rsync
+zypper lr -d
+zypper mr -da
 
-rsync -avzP ./root/ /
+zypper ar -fcg https://mirrors.ustc.edu.cn/opensuse/tumbleweed/repo/oss USTC:OSS
+zypper ar -fcg https://mirrors.ustc.edu.cn/opensuse/tumbleweed/repo/non-oss USTC:NON-OSS
+zypper ar -fcg https://mirrors.ustc.edu.cn/opensuse/update/tumbleweed/ USTC:UPDATE
+
+zypper ref
+
+ln -sf "/usr/share/zoneinfo/Asia/Shanghai" "/etc/localtime"
+
+zypper install -y which
+zypper install -y python311-xmltodict 
+zypper install -y python3-kiwi
+zypper install -y dracut
+zypper install -y dracut-kiwi-live
+zypper install -y dracut-kiwi-oem-dump
+zypper install -y dracut-kiwi-oem-repart
+zypper install -y dracut-ima
+zypper install -y dracut-fips
+zypper install -y dracut-extra
+zypper install -y dracut-sshd
+zypper install -y dracut-tools
+zypper install -y dracut-transactional-update
+zypper install -y afterburn-dracut
+zypper install -y rpcbind
+zypper install -y qemu
+zypper install -y checkmedia
+zypper install -y qemu-img
+zypper install -y dosfstools
+zypper install -y git
+zypper install -y sudo
+zypper install -y tar
+zypper install -y e2fsprogs
+zypper install -y binutils
+zypper install -y squashfs
+zypper install -y keyutils
+zypper install -y util-linux-systemd
+zypper install -y busybox
+zypper install -y nvme-cli
+zypper install -y dmraid
+zypper install -y lvm2
+zypper install -y btrfsprogs
+zypper install -y mdadm
+zypper install -y open-lldp
+zypper install -y nbd
+zypper install -y open-iscsi
+zypper install -y fcoe-utils
+zypper install -y osc
+which qemu-img
+which rpmdb
 
 
-dnf clean all
-dnf makecache
 
-dnf --assumeyes install epel-release dnf-plugins-core
-dnf --assumeyes upgrade epel-release
+export HOME=/root
+export USER=root
 
-sed -e 's!^metalink=!#metalink=!g' \
-    -e 's!^#baseurl=!baseurl=!g' \
-    -e 's!https\?://download\.fedoraproject\.org/pub/epel!https://mirrors.tuna.tsinghua.edu.cn/epel!g' \
-    -e 's!https\?://download\.example/pub/epel!https://mirrors.tuna.tsinghua.edu.cn/epel!g' \
-    -i /etc/yum.repos.d/epel*.repo
-
-# crb enable
-
-dnf --assumeyes update
-
-dnf --assumeyes install kiwi 
-dnf --assumeyes install sudo
-dnf --assumeyes install qemu-img
-dnf --assumeyes install dosfstools
-dnf --assumeyes install git
-dnf --assumeyes install expect
-dnf --assumeyes install vim
-dnf --assumeyes openssh-server
-dnf --assumeyes groupinstall "Development Tools"
-
-
-dnf --assumeyes update
-dnf clean all
-dnf makecache
-
-######## create the users www and runner=======
-cat /etc/group
-
-groupadd www
-groupadd runner
-
-useradd -m -d /home/www -G wheel -g www www -s /bin/bash
-useradd -m -d /home/runner -G wheel -g runner runner -s /bin/bash
-
-echo "root:openos365" | chpasswd
-echo "runner:openos365" | chpasswd
-echo "www:openos365" | chpasswd
-
-echo "PermitRootLogin yes" >> /etc/ssh/sshd_config
-echo "PasswordAuthentication yes" >> /etc/ssh/sshd_config
-
-mkdir -p /etc/sudoers.d
-echo "www ALL=(ALL) NOPASSWD: ALL" > /etc/sudoers.d/www-nopassword
-echo "runner ALL=(ALL) NOPASSWD: ALL"   > /etc/sudoers.d/runner-nopassword
-chmod 750 /etc/sudoers.d/www-nopassword
-chmod 750 /etc/sudoers.d/runner-nopassword
-chmod 750 /etc/sudoers.d/
+# 2 Add builder User
 cat /etc/passwd
-###############################################
-
-
-
-git config --global pull.rebase false
-git config --global core.editor "vim"
-
-cd ~
-if [ -d versions ];then
-    rm -rf versions
-fi
+cd /root/
 mkdir versions
+
 cd versions
-dnf list installed > dnf.list.installed.txt
-dnf list > dnf.list.txt
 
-sed -i '1,2d' dnf.list.installed.txt
-sed -i '1d' dnf.list.txt
-
-
+zypper patches > zypper.patches.txt 
+zypper packages > zypper.packages.txt 
+zypper patterns > zypper.patterns.txt 
+zypper products > zypper.products.txt 
+zypper search --installed-only > zypper.installed.txt 
