@@ -8,4 +8,4 @@
 ## If you change the InitiatorName, existing access control lists
 ## may reject this initiator. The InitiatorName must be unique
 ## for each iSCSI initiator. Do NOT duplicate iSCSI InitiatorNames.
-InitiatorName=iqn.1996-04.de.suse:01:7fc8444c1b2a
+InitiatorName=iqn.1996-04.de.suse:01:a7b0527ed357
