@@ -1,3 +1,2 @@
-# Magic local data for file(1) command.
-# Insert here your local magic data. Format is described in magic(5).
-
+# Localstuff: file(1) magic(5) for locally observed files
+#     global magic file is /usr/share/file/magic(.mgc)

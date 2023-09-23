@@ -1,77 +1,47 @@
+# This is the aliases file - it says who gets mail for whom.
 #
-#  Aliases in this file will NOT be expanded in the header from
-#  Mail, but WILL be visible over networks or from /bin/mail.
-#
-#	>>>>>>>>>>	The program "newaliases" must be run after
-#	>> NOTE >>	this file is updated for any changes to
-#	>>>>>>>>>>	show through to sendmail.
+# >>>>>>>>>>      The program "newaliases" will need to be run
+# >> NOTE >>      after this file is updated for any changes
+# >>>>>>>>>>      to show through to sendmail.
 #
 
-# Basic system aliases -- these MUST be present.
-mailer-daemon:	postmaster
+# It is probably best to not work as user root and redirect all
+# email to "root" to the address of a HUMAN who deals with this
+# system's problems. Then you don't have to check for important
+# email too often on the root account.
+# The "\root" will make sure that email is also delivered to the
+# root-account, but also forwared to the user "joe".
+#root:		joe, \root
+
+# Basic system aliases that MUST be present.
 postmaster:	root
+mailer-daemon:	postmaster
 
-# General redirections for pseudo accounts.
-bin:		root
+# amavis
+virusalert:	root
+
+# General redirections for pseudo accounts in /etc/passwd.
+administrator:	root
 daemon:		root
-adm:		root
 lp:		root
-sync:		root
-shutdown:	root
-halt:		root
-mail:		root
 news:		root
 uucp:		root
-operator:	root
 games:		root
-gopher:		root
-ftp:		root
-nobody:		root
-radiusd:	root
-nut:		root
-dbus:		root
-vcsa:		root
-canna:		root
-wnn:		root
-rpm:		root
-nscd:		root
-pcap:		root
-apache:		root
-webalizer:	root
-dovecot:	root
-fax:		root
-quagga:		root
-radvd:		root
-pvm:		root
-amandabackup:		root
-privoxy:	root
-ident:		root
-named:		root
-xfs:		root
-gdm:		root
-mailnull:	root
+man:		root
+at:		root
 postgres:	root
-sshd:		root
-smmsp:		root
-postfix:	root
-netdump:	root
-ldap:		root
+mdom:		root
+amanda:		root
+ftp:		root
+wwwrun:		root
 squid:		root
-ntp:		root
-mysql:		root
-desktop:	root
-rpcuser:	root
-rpc:		root
-nfsnobody:	root
-pcp:		root
+msql:		root
+gnats:		root
+nobody:		root
+# "bin" used to be in /etc/passwd
+bin:		root
 
-ingres:		root
-system:		root
-toor:		root
-manager:	root
-dumper:		root
-abuse:		root
-
+# Further well-known aliases for dns/news/ftp/mail/fax/web/gnats.
 newsadm:	news
 newsadmin:	news
 usenet:		news
@@ -79,19 +49,43 @@ ftpadm:		ftp
 ftpadmin:	ftp
 ftp-adm:	ftp
 ftp-admin:	ftp
-www:		webmaster
-webmaster:	root
-noc:		root
-security:	root
 hostmaster:	root
-info:		postmaster
-marketing:	postmaster
-sales:		postmaster
-support:	postmaster
+mail:		postmaster
+postman:	postmaster
+post_office:	postmaster
+# "abuse" is often used to fight against spam email
+abuse:		postmaster
+spam:		postmaster
+faxadm:		root
+faxmaster:	root
+webmaster:	root
+gnats-admin:	root
+mailman:	root
+mailman-owner:	mailman
 
+# mlmmj needs only one alias to function; this is with a mailinglist in
+# /var/spool/mlmmj/myownlist (remember full path):
+# myownlist: "| /usr/bin/mlmmj-recieve -L /var/spool/mlmmj/myownlist"
 
-# trap decode to catch security attacks
-decode:		root
+# Majordomo can be used to have mailinglists on your site.
+#majordomo:		"|/usr/lib/majordomo/wrapper majordomo"
+#owner-majordomo:	root,
+#majordomo-owner:	root,
 
-# Person who should get root's mail
-#root:		marc
+# sample entry for a majordomo mailing-list called "test"
+# read /usr/doc/packages/majordomo/README.linux for more information
+# replace "test" with a new name and put the administrator into
+# the "owner-test" alias instead of "root".
+#
+#test:			"|/usr/lib/majordomo/wrapper resend -l test test-outgoing"
+#test-outgoing:		:include:/var/lib/majordomo/lists/test
+#test-request:		"|/usr/lib/majordomo/wrapper majordomo -l test"
+#test-approval:		owner-test,
+#owner-test-outgoing:	owner-test,
+#owner-test-request:	owner-test,
+#owner-test:		root,
+#
+# if you have bulk_mailer installed, you can replace the above
+# "test-outgoing" line with the following:
+#test-outgoing:		"|/usr/bin/bulk_mailer owner-test@host.com /var/lib/majordomo/lists/test"
+#

@@ -1,0 +1,5 @@
+[USTC:UPDATE]
+enabled=1
+autorefresh=1
+baseurl=https://mirrors.ustc.edu.cn/opensuse/update/tumbleweed/
+gpgcheck=1

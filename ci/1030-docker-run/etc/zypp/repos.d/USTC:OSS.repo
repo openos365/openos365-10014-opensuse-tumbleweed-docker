@@ -1,0 +1,5 @@
+[USTC:OSS]
+enabled=1
+autorefresh=1
+baseurl=https://mirrors.ustc.edu.cn/opensuse/tumbleweed/repo/oss
+gpgcheck=1
