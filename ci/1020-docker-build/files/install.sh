@@ -23,6 +23,35 @@ zypper ref
 
 ln -sf "/usr/share/zoneinfo/Asia/Shanghai" "/etc/localtime"
 
+######## create the users www and runner=======
+cat /etc/group
+
+groupadd www
+groupadd runner
+
+useradd -m -d /home/www -g www www -s /bin/bash
+useradd -m -d /home/runner -g runner runner -s /bin/bash
+
+echo "root:openos365" | chpasswd
+echo "runner:openos365" | chpasswd
+echo "www:openos365" | chpasswd
+
+
+
+mkdir -p /etc/sudoers.d
+echo "www ALL=(ALL) NOPASSWD: ALL" > /etc/sudoers.d/www-nopassword
+echo "runner ALL=(ALL) NOPASSWD: ALL"   > /etc/sudoers.d/runner-nopassword
+chmod 750 /etc/sudoers.d/www-nopassword
+chmod 750 /etc/sudoers.d/runner-nopassword
+chmod 750 /etc/sudoers.d/
+cat /etc/passwd
+###############################################
+
+
+
+git config --global pull.rebase false
+git config --global core.editor "vim"
+
 zypper install -y which
 zypper install -y python311-xmltodict 
 zypper install -y python3-kiwi
@@ -61,9 +90,12 @@ zypper install -y nbd
 zypper install -y open-iscsi
 zypper install -y fcoe-utils
 zypper install -y osc
+zypper install -y openssh-server
 which qemu-img
 which rpmdb
 
+echo "PermitRootLogin yes" >> /etc/ssh/sshd_config
+echo "PasswordAuthentication yes" >> /etc/ssh/sshd_config
 
 
 export HOME=/root
