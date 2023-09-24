@@ -11,7 +11,6 @@ boost-license1_82_0.noarch                 1.82.0-1.4                    @System
 btrfsprogs.x86_64                          6.5.1-1.1                     @System
 btrfsprogs-udev-rules.noarch               6.5.1-1.1                     @System
 busybox.x86_64                             1.36.1-2.1                    @System
-busybox-which.noarch                       1.36.1-30.1                   @System
 ca-certificates.noarch                     2+git20230406.2dae8b7-1.2     @System
 ca-certificates-mozilla.noarch             2.62-2.1                      @System
 checkmedia.x86_64                          6.2-1.2                       @System
@@ -44,7 +43,6 @@ dracut-kiwi-live.x86_64                    9.25.12-1.1                   @System
 dracut-kiwi-oem-dump.x86_64                9.25.12-1.1                   @System
 dracut-kiwi-oem-repart.x86_64              9.25.12-1.1                   @System
 dracut-sshd.noarch                         0.6.1-2.9                     @System
-dracut-tools.x86_64                        059+suse.501.gc44a365d-1.1    @System
 dracut-transactional-update.noarch         4.3.0-1.2                     @System
 e2fsprogs.x86_64                           1.47.0-1.3                    @System
 elfutils.x86_64                            0.189-5.1                     @System
@@ -386,6 +384,7 @@ udev.x86_64                                254.3-2.1                     @System
 update-alternatives.x86_64                 1.21.22-1.3                   @System
 util-linux.x86_64                          2.39.2-1.1                    @System
 util-linux-systemd.x86_64                  2.39.2-1.1                    @System
+which.x86_64                               2.21-5.11                     @System
 xen-libs.x86_64                            4.17.2_02-1.2                 @System
 xfsprogs.x86_64                            6.4.0-1.2                     @System
 xorriso.x86_64                             1.5.6-1.1                     @System
