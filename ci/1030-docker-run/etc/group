@@ -3,6 +3,8 @@ shadow:x:15:
 trusted:x:42:
 users:x:100:
 messagebus:!:499:
+www:x:1000:
+runner:x:1001:
 kmem:x:498:
 lock:x:497:
 tty:x:5:
@@ -22,3 +24,4 @@ systemd-journal:x:485:
 rpc:x:484:
 systemd-timesync:x:483:
 qemu:x:107:
+sshd:x:482:

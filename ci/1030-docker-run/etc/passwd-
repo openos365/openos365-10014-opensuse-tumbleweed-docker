@@ -1,5 +1,8 @@
 root:x:0:0:root:/root:/bin/bash
 messagebus:x:499:499:User for D-Bus:/run/dbus:/usr/sbin/nologin
+www:x:1000:1000::/home/www:/bin/bash
+runner:x:1001:1001::/home/runner:/bin/bash
 lp:x:498:486:Printing daemon:/var/spool/lpd:/usr/sbin/nologin
 rpc:x:484:484:User for rpcbind:/var/lib/empty:/usr/sbin/nologin
 systemd-timesync:x:483:483:systemd Time Synchronization:/:/usr/sbin/nologin
+qemu:x:107:107:qemu user:/:/usr/sbin/nologin
