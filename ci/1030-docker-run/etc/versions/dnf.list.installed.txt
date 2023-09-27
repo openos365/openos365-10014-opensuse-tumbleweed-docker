@@ -143,7 +143,7 @@ libgnutls30.x86_64                         3.8.1-1.1                     @System
 libgobject-2_0-0.x86_64                    2.78.0-1.1                    @System
 libgomp1.x86_64                            13.2.1+git7813-1.1            @System
 libgpg-error0.x86_64                       1.47-1.4                      @System
-libgpgme11.x86_64                          1.22.0-1.1                    @System
+libgpgme11.x86_64                          1.22.0-2.1                    @System
 libhidapi-hidraw0.x86_64                   0.14.0-1.1                    @System
 libhogweed6.x86_64                         3.9.1-2.2                     @System
 libhugetlbfs.x86_64                        2.23.0.g6b126a4-3.4           @System
@@ -280,8 +280,8 @@ open-iscsi.x86_64                          2.1.9-101.2                   @System
 open-isns.x86_64                           0.102-2.1                     @System
 open-lldp.x86_64                           1.1+58.8ca361bab766-1.4       @System
 openSUSE-build-key.x86_64                  1.0-48.1                      @System
-openSUSE-release.x86_64                    20230922-2507.1               @System
-openSUSE-release-appliance-docker.x86_64   20230922-2507.1               @System
+openSUSE-release.x86_64                    20230925-2509.1               @System
+openSUSE-release-appliance-docker.x86_64   20230925-2509.1               @System
 openssh-clients.x86_64                     9.3p2-2.1                     @System
 openssh-common.x86_64                      9.3p2-2.1                     @System
 openssh-fips.x86_64                        9.3p2-2.1                     @System
