@@ -196,7 +196,7 @@ libnvme1.x86_64                            1.4-3.2                       @System
 libopeniscsiusr0.x86_64                    0.2.0-101.2                   @System
 libopenssl1_1.x86_64                       1.1.1w-1.1                    @System
 libopenssl3.x86_64                         3.1.2-1.3                     @System
-libp11-kit0.x86_64                         0.24.1-2.4                    @System
+libp11-kit0.x86_64                         0.25.0-1.1                    @System
 libpciaccess0.x86_64                       0.17-1.3                      @System
 libpcre2-8-0.x86_64                        10.42-3.11                    @System
 libpeas-1_0-0.x86_64                       1.36.0-1.2                    @System
@@ -234,7 +234,7 @@ libssh-config.x86_64                       0.10.5-2.2                    @System
 libssh4.x86_64                             0.10.5-2.2                    @System
 libstdc++6.x86_64                          13.2.1+git7813-1.1            @System
 libsubid4.x86_64                           4.14.0-1.1                    @System
-libsystemd0.x86_64                         254.3-2.1                     @System
+libsystemd0.x86_64                         254.3-3.1                     @System
 libtasn1-6.x86_64                          4.19.0-1.5                    @System
 libtirpc-netconfig.x86_64                  1.3.3-1.5                     @System
 libtirpc3.x86_64                           1.3.3-1.5                     @System
@@ -243,7 +243,7 @@ libtss2-mu0.x86_64                         4.0.1-2.2                     @System
 libtss2-rc0.x86_64                         4.0.1-2.2                     @System
 libtss2-sys1.x86_64                        4.0.1-2.2                     @System
 libtukit4.x86_64                           4.3.0-1.2                     @System
-libudev1.x86_64                            254.3-2.1                     @System
+libudev1.x86_64                            254.3-3.1                     @System
 libunistring5.x86_64                       1.1-3.1                       @System
 liburcu8.x86_64                            0.14.0-1.3                    @System
 liburing2.x86_64                           2.4-3.1                       @System
@@ -281,8 +281,8 @@ open-iscsi.x86_64                          2.1.9-101.2                   @System
 open-isns.x86_64                           0.102-2.1                     @System
 open-lldp.x86_64                           1.1+58.8ca361bab766-1.4       @System
 openSUSE-build-key.x86_64                  1.0-48.1                      @System
-openSUSE-release.x86_64                    20230925-2509.1               @System
-openSUSE-release-appliance-docker.x86_64   20230925-2509.1               @System
+openSUSE-release.x86_64                    20230926-2512.1               @System
+openSUSE-release-appliance-docker.x86_64   20230926-2512.1               @System
 openssh-clients.x86_64                     9.3p2-2.1                     @System
 openssh-common.x86_64                      9.3p2-2.1                     @System
 openssh-fips.x86_64                        9.3p2-2.1                     @System
@@ -290,8 +290,8 @@ openssh-server.x86_64                      9.3p2-2.1                     @System
 openssl.noarch                             3.1.2-1.3                     @System
 openssl-3.x86_64                           3.1.2-1.3                     @System
 osc.noarch                                 1.3.1-1.1                     @System
-p11-kit.x86_64                             0.24.1-2.4                    @System
-p11-kit-tools.x86_64                       0.24.1-2.4                    @System
+p11-kit.x86_64                             0.25.0-1.1                    @System
+p11-kit-tools.x86_64                       0.25.0-1.1                    @System
 pam.x86_64                                 1.5.3-3.2                     @System
 pam-config.x86_64                          2.8-1.1                       @System
 patterns-base-fips.x86_64                  20200505-43.1                 @System
