@@ -191,8 +191,8 @@ libnl3-200.x86_64                          3.8.0-1.1                     @System
 libnpth0.x86_64                            1.6-2.11                      @System
 libnss_usrfiles2.x86_64                    2.27-3.15                     @System
 libnuma1.x86_64                            2.0.16.21.g693fee1-1.3        @System
-libnvme-mi1.x86_64                         1.4-3.2                       @System
-libnvme1.x86_64                            1.4-3.2                       @System
+libnvme-mi1.x86_64                         1.6-1.1                       @System
+libnvme1.x86_64                            1.6-1.1                       @System
 libopeniscsiusr0.x86_64                    0.2.0-101.2                   @System
 libopenssl1_1.x86_64                       1.1.1w-1.1                    @System
 libopenssl3.x86_64                         3.1.3-1.2                     @System
@@ -276,7 +276,7 @@ mtools.x86_64                              4.0.43-1.3                    @System
 nbd.x86_64                                 3.25-1.2                      @System
 ncurses-utils.x86_64                       6.4.20230909-20.1             @System
 netcfg.noarch                              11.6-10.5                     @System
-nvme-cli.x86_64                            2.4-2.2                       @System
+nvme-cli.x86_64                            2.6-1.1                       @System
 open-iscsi.x86_64                          2.1.9-101.2                   @System
 open-isns.x86_64                           0.102-2.1                     @System
 open-lldp.x86_64                           1.1+58.8ca361bab766-1.4       @System
@@ -292,7 +292,7 @@ osc.noarch                                 1.3.1-1.1                     @System
 p11-kit.x86_64                             0.25.0-1.1                    @System
 p11-kit-tools.x86_64                       0.25.0-1.1                    @System
 pam.x86_64                                 1.5.3-3.2                     @System
-pam-config.x86_64                          2.8-1.1                       @System
+pam-config.x86_64                          2.9-1.1                       @System
 patterns-base-fips.x86_64                  20200505-43.1                 @System
 perl.x86_64                                5.38.0-1.3                    @System
 perl-Bootloader.x86_64                     1.8-1.1                       @System
@@ -360,7 +360,7 @@ shared-mime-info.x86_64                    2.2-2.3                       @System
 snapper.x86_64                             0.10.6-1.1                    @System
 squashfs.x86_64                            4.6.1-2.2                     @System
 sudo.x86_64                                1.9.14p3-1.1                  @System
-suse-module-tools.x86_64                   16.0.35-1.1                   @System
+suse-module-tools.x86_64                   16.0.36-1.1                   @System
 system-group-hardware.noarch               20170617-25.1                 @System
 system-group-kvm.noarch                    20170617-25.1                 @System
 system-user-lp.noarch                      20170617-25.1                 @System
