@@ -18,7 +18,7 @@ coreutils.x86_64                           9.4-2.1                       @System
 cpio.x86_64                                2.14-1.3                      @System
 cracklib.x86_64                            2.9.11-1.2                    @System
 cracklib-dict-small.x86_64                 2.9.11-1.2                    @System
-crypto-policies.noarch                     20230614.5f3458e-2.1          @System
+crypto-policies.noarch                     20230920.570ea89-1.1          @System
 cryptsetup.x86_64                          2.6.1-3.2                     @System
 curl.x86_64                                8.3.0-1.1                     @System
 dbus-1.x86_64                              1.14.10-1.1                   @System
@@ -58,7 +58,7 @@ gio-branding-openSUSE.noarch               42.1-20.6                     @System
 girepository-1_0.x86_64                    1.78.1-1.1                    @System
 git.x86_64                                 2.42.0-2.1                    @System
 git-core.x86_64                            2.42.0-2.1                    @System
-glib2-tools.x86_64                         2.78.0-1.1                    @System
+glib2-tools.x86_64                         2.78.0-2.1                    @System
 glibc.x86_64                               2.38-3.1                      @System
 glibc-locale-base.x86_64                   2.38-3.1                      @System
 gpg2.x86_64                                2.4.0-1.1                     @System
@@ -134,13 +134,13 @@ libgcc_s1.x86_64                           13.2.1+git7813-2.1            @System
 libgcrypt20.x86_64                         1.10.2-2.4                    @System
 libgdbm6.x86_64                            1.23-2.1                      @System
 libgdbm_compat4.x86_64                     1.23-2.1                      @System
-libgio-2_0-0.x86_64                        2.78.0-1.1                    @System
+libgio-2_0-0.x86_64                        2.78.0-2.1                    @System
 libgirepository-1_0-1.x86_64               1.78.1-1.1                    @System
-libglib-2_0-0.x86_64                       2.78.0-1.1                    @System
-libgmodule-2_0-0.x86_64                    2.78.0-1.1                    @System
+libglib-2_0-0.x86_64                       2.78.0-2.1                    @System
+libgmodule-2_0-0.x86_64                    2.78.0-2.1                    @System
 libgmp10.x86_64                            6.3.0-2.1                     @System
 libgnutls30.x86_64                         3.8.1-1.1                     @System
-libgobject-2_0-0.x86_64                    2.78.0-1.1                    @System
+libgobject-2_0-0.x86_64                    2.78.0-2.1                    @System
 libgomp1.x86_64                            13.2.1+git7813-2.1            @System
 libgpg-error0.x86_64                       1.47-1.4                      @System
 libgpgme11.x86_64                          1.22.0-2.1                    @System
@@ -222,7 +222,7 @@ libsemanage-conf.x86_64                    3.5-2.3                       @System
 libsemanage2.x86_64                        3.5-2.3                       @System
 libsepol2.x86_64                           3.5-1.5                       @System
 libsha1detectcoll1.x86_64                  1.0.3-4.20                    @System
-libsigc-2_0-0.x86_64                       2.12.0-1.2                    @System
+libsigc-2_0-0.x86_64                       2.12.1-1.1                    @System
 libslirp0.x86_64                           4.7.0+44-3.3                  @System
 libsmartcols1.x86_64                       2.39.2-1.1                    @System
 libsnapper7.x86_64                         0.10.6-1.1                    @System
@@ -232,8 +232,8 @@ libsqlite3-0.x86_64                        3.42.0-1.3                    @System
 libssh-config.x86_64                       0.10.5-3.1                    @System
 libssh4.x86_64                             0.10.5-3.1                    @System
 libstdc++6.x86_64                          13.2.1+git7813-2.1            @System
-libsubid4.x86_64                           4.14.0-1.1                    @System
-libsystemd0.x86_64                         254.3-3.1                     @System
+libsubid4.x86_64                           4.14.0-2.1                    @System
+libsystemd0.x86_64                         254.5-1.1                     @System
 libtasn1-6.x86_64                          4.19.0-1.5                    @System
 libtirpc-netconfig.x86_64                  1.3.3-1.5                     @System
 libtirpc3.x86_64                           1.3.3-1.5                     @System
@@ -242,7 +242,7 @@ libtss2-mu0.x86_64                         4.0.1-2.2                     @System
 libtss2-rc0.x86_64                         4.0.1-2.2                     @System
 libtss2-sys1.x86_64                        4.0.1-2.2                     @System
 libtukit4.x86_64                           4.4.0-1.1                     @System
-libudev1.x86_64                            254.3-3.1                     @System
+libudev1.x86_64                            254.5-1.1                     @System
 libunistring5.x86_64                       1.1-3.1                       @System
 liburcu8.x86_64                            0.14.0-1.3                    @System
 liburing2.x86_64                           2.4-3.1                       @System
@@ -265,7 +265,7 @@ libzck1.x86_64                             1.3.1-1.2                     @System
 libzio1.x86_64                             1.08-2.7                      @System
 libzstd1.x86_64                            1.5.5-3.4                     @System
 libzypp.x86_64                             17.31.20-1.2                  @System
-login_defs.noarch                          4.14.0-1.1                    @System
+login_defs.noarch                          4.14.0-2.1                    @System
 lsb-release.noarch                         3.2-3.1                       @System
 lsof.x86_64                                4.98.0-2.3                    @System
 lvm2.x86_64                                2.03.22-1.1                   @System
@@ -280,8 +280,8 @@ open-iscsi.x86_64                          2.1.9-101.2                   @System
 open-isns.x86_64                           0.102-2.1                     @System
 open-lldp.x86_64                           1.1+58.8ca361bab766-1.4       @System
 openSUSE-build-key.x86_64                  1.0-48.1                      @System
-openSUSE-release.x86_64                    20231001-2517.1               @System
-openSUSE-release-appliance-docker.x86_64   20231001-2517.1               @System
+openSUSE-release.x86_64                    20231003-2521.1               @System
+openSUSE-release-appliance-docker.x86_64   20231003-2521.1               @System
 openssh-common.x86_64                      9.3p2-2.1                     @System
 openssh-fips.x86_64                        9.3p2-2.1                     @System
 openssh-server.x86_64                      9.3p2-2.1                     @System
@@ -354,7 +354,7 @@ rpm-config-SUSE.noarch                     20230712-1.1                  @System
 rsync.x86_64                               3.2.7-5.1                     @System
 screen.x86_64                              4.9.0-2.6                     @System
 sed.x86_64                                 4.9-2.4                       @System
-shadow.x86_64                              4.14.0-1.1                    @System
+shadow.x86_64                              4.14.0-2.1                    @System
 shared-mime-info.x86_64                    2.2-2.3                       @System
 snapper.x86_64                             0.10.6-1.1                    @System
 squashfs.x86_64                            4.6.1-2.2                     @System
