@@ -67,8 +67,8 @@ grep.x86_64                                3.11-2.1                      @System
 gzip.x86_64                                1.13-1.1                      @System
 info.x86_64                                7.0.3-1.6                     @System
 iproute2.x86_64                            6.5-1.1                       @System
-kbd.x86_64                                 2.6.2-1.1                     @System
-kbd-legacy.noarch                          2.6.2-1.1                     @System
+kbd.x86_64                                 2.6.3-1.1                     @System
+kbd-legacy.noarch                          2.6.3-1.1                     @System
 kexec-tools.x86_64                         2.0.27-1.1                    @System
 keyutils.x86_64                            1.6.3-6.3                     @System
 kiwi-systemdeps-core.x86_64                9.25.12-1.1                   @System
@@ -352,7 +352,7 @@ rpcbind.x86_64                             1.2.6-5.3                     @System
 rpm.x86_64                                 4.18.0-6.1                    @System
 rpm-config-SUSE.noarch                     20230712-1.1                  @System
 rsync.x86_64                               3.2.7-5.1                     @System
-screen.x86_64                              4.9.0-2.6                     @System
+screen.x86_64                              4.9.1-1.1                     @System
 sed.x86_64                                 4.9-2.4                       @System
 shadow.x86_64                              4.14.0-2.1                    @System
 shared-mime-info.x86_64                    2.2-2.3                       @System
@@ -365,7 +365,7 @@ system-group-kvm.noarch                    20170617-25.1                 @System
 system-user-lp.noarch                      20170617-25.1                 @System
 system-user-qemu.noarch                    20170617-25.1                 @System
 system-user-root.noarch                    20190513-2.13                 @System
-systemd.x86_64                             254.3-3.1                     @System
+systemd.x86_64                             254.5-1.1                     @System
 systemd-default-settings.noarch            0.7-2.7                       @System
 systemd-default-settings-branding-SLE.noarch
                                            0.7-2.7                       @System
@@ -379,7 +379,7 @@ thin-provisioning-tools.x86_64             0.9.0-2.11                    @System
 timezone.x86_64                            2023c-1.4                     @System
 tukit.x86_64                               4.4.0-1.1                     @System
 typelib-1_0-Modulemd-2_0.x86_64            2.14.0-1.5                    @System
-udev.x86_64                                254.3-3.1                     @System
+udev.x86_64                                254.5-1.1                     @System
 update-alternatives.x86_64                 1.22.0-1.1                    @System
 util-linux.x86_64                          2.39.2-1.1                    @System
 util-linux-systemd.x86_64                  2.39.2-1.1                    @System
