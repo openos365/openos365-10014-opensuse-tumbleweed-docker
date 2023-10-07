@@ -50,7 +50,7 @@ evmctl.x86_64                              1.5-1.4                       @System
 fcoe-utils.x86_64                          1.0.34-4.9                    @System
 file.x86_64                                5.45-1.3                      @System
 file-magic.noarch                          5.45-1.3                      @System
-filesystem.x86_64                          84.87-13.1                    @System
+filesystem.x86_64                          84.87-14.1                    @System
 fillup.x86_64                              1.42-279.4                    @System
 findutils.x86_64                           4.9.0-3.1                     @System
 gawk.x86_64                                5.2.2-2.6                     @System
@@ -232,8 +232,8 @@ libsqlite3-0.x86_64                        3.42.0-1.3                    @System
 libssh-config.x86_64                       0.10.5-3.1                    @System
 libssh4.x86_64                             0.10.5-3.1                    @System
 libstdc++6.x86_64                          13.2.1+git7813-2.1            @System
-libsubid4.x86_64                           4.14.0-2.1                    @System
-libsystemd0.x86_64                         254.5-1.1                     @System
+libsubid4.x86_64                           4.14.1-1.1                    @System
+libsystemd0.x86_64                         254.5-2.1                     @System
 libtasn1-6.x86_64                          4.19.0-1.5                    @System
 libtirpc-netconfig.x86_64                  1.3.3-1.5                     @System
 libtirpc3.x86_64                           1.3.3-1.5                     @System
@@ -242,7 +242,7 @@ libtss2-mu0.x86_64                         4.0.1-2.2                     @System
 libtss2-rc0.x86_64                         4.0.1-2.2                     @System
 libtss2-sys1.x86_64                        4.0.1-2.2                     @System
 libtukit4.x86_64                           4.4.0-1.1                     @System
-libudev1.x86_64                            254.5-1.1                     @System
+libudev1.x86_64                            254.5-2.1                     @System
 libunistring5.x86_64                       1.1-3.1                       @System
 liburcu8.x86_64                            0.14.0-1.3                    @System
 liburing2.x86_64                           2.4-3.1                       @System
@@ -265,7 +265,7 @@ libzck1.x86_64                             1.3.1-1.2                     @System
 libzio1.x86_64                             1.08-2.7                      @System
 libzstd1.x86_64                            1.5.5-3.4                     @System
 libzypp.x86_64                             17.31.20-1.2                  @System
-login_defs.noarch                          4.14.0-2.1                    @System
+login_defs.noarch                          4.14.1-1.1                    @System
 lsb-release.noarch                         3.2-3.1                       @System
 lsof.x86_64                                4.98.0-2.3                    @System
 lvm2.x86_64                                2.03.22-1.1                   @System
@@ -280,8 +280,8 @@ open-iscsi.x86_64                          2.1.9-101.2                   @System
 open-isns.x86_64                           0.102-2.1                     @System
 open-lldp.x86_64                           1.1+58.8ca361bab766-1.4       @System
 openSUSE-build-key.x86_64                  1.0-48.1                      @System
-openSUSE-release.x86_64                    20231005-2525.1               @System
-openSUSE-release-appliance-docker.x86_64   20231005-2525.1               @System
+openSUSE-release.x86_64                    20231006-2527.1               @System
+openSUSE-release-appliance-docker.x86_64   20231006-2527.1               @System
 openssh-common.x86_64                      9.3p2-2.1                     @System
 openssh-fips.x86_64                        9.3p2-2.1                     @System
 openssh-server.x86_64                      9.3p2-2.1                     @System
@@ -354,7 +354,7 @@ rpm-config-SUSE.noarch                     20230712-1.1                  @System
 rsync.x86_64                               3.2.7-5.1                     @System
 screen.x86_64                              4.9.1-1.1                     @System
 sed.x86_64                                 4.9-2.4                       @System
-shadow.x86_64                              4.14.0-2.1                    @System
+shadow.x86_64                              4.14.1-1.1                    @System
 shared-mime-info.x86_64                    2.2-2.3                       @System
 snapper.x86_64                             0.10.6-1.1                    @System
 squashfs.x86_64                            4.6.1-2.2                     @System
