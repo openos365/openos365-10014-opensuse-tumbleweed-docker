@@ -20,7 +20,7 @@ cracklib.x86_64                            2.9.11-1.2                    @System
 cracklib-dict-small.x86_64                 2.9.11-1.2                    @System
 crypto-policies.noarch                     20230920.570ea89-2.2          @System
 cryptsetup.x86_64                          2.6.1-3.2                     @System
-curl.x86_64                                8.3.0-1.1                     @System
+curl.x86_64                                8.4.0-1.1                     @System
 dbus-1.x86_64                              1.14.10-1.1                   @System
 dbus-1-common.noarch                       1.14.10-1.1                   @System
 dbus-1-daemon.x86_64                       1.14.10-1.1                   @System
@@ -109,7 +109,7 @@ libcrypt1.x86_64                           4.4.36-1.4                    @System
 libcryptsetup12.x86_64                     2.6.1-3.2                     @System
 libctf-nobfd0.x86_64                       2.40-5.5                      @System
 libctf0.x86_64                             2.40-5.5                      @System
-libcurl4.x86_64                            8.3.0-1.1                     @System
+libcurl4.x86_64                            8.4.0-1.1                     @System
 libdb-4_8.x86_64                           4.8.30-42.4                   @System
 libdbus-1-3.x86_64                         1.14.10-1.1                   @System
 libdevmapper-event1_03.x86_64              2.03.22_1.02.196-1.1          @System
@@ -264,7 +264,7 @@ libz1.x86_64                               1.2.13-4.5                    @System
 libzck1.x86_64                             1.3.1-1.2                     @System
 libzio1.x86_64                             1.08-2.8                      @System
 libzstd1.x86_64                            1.5.5-3.5                     @System
-libzypp.x86_64                             17.31.20-1.2                  @System
+libzypp.x86_64                             17.31.22-1.1                  @System
 login_defs.noarch                          4.14.1-1.2                    @System
 lsb-release.noarch                         3.2-3.1                       @System
 lsof.x86_64                                4.98.0-2.4                    @System
@@ -280,8 +280,8 @@ open-iscsi.x86_64                          2.1.9-101.2                   @System
 open-isns.x86_64                           0.102-2.2                     @System
 open-lldp.x86_64                           1.1+58.8ca361bab766-1.4       @System
 openSUSE-build-key.x86_64                  1.0-48.1                      @System
-openSUSE-release.x86_64                    20231011-2533.1               @System
-openSUSE-release-appliance-docker.x86_64   20231011-2533.1               @System
+openSUSE-release.x86_64                    20231012-2535.1               @System
+openSUSE-release-appliance-docker.x86_64   20231012-2535.1               @System
 openssh-common.x86_64                      9.3p2-2.3                     @System
 openssh-fips.x86_64                        9.3p2-2.3                     @System
 openssh-server.x86_64                      9.3p2-2.3                     @System
@@ -389,4 +389,4 @@ xfsprogs.x86_64                            6.4.0-1.3                     @System
 xorriso.x86_64                             1.5.6-1.1                     @System
 xz.x86_64                                  5.4.4-2.2                     @System
 zstd.x86_64                                1.5.5-3.5                     @System
-zypper.x86_64                              1.14.64-1.2                   @System
+zypper.x86_64                              1.14.66-1.1                   @System
