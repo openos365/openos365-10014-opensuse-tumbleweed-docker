@@ -131,7 +131,7 @@ libfdt1.x86_64                             1.7.0-1.3                     @System
 libffi8.x86_64                             3.4.4-1.6                     @System
 libfido2-1.x86_64                          1.13.0-1.4                    @System
 libgcc_s1.x86_64                           13.2.1+git7813-2.2            @System
-libgcrypt20.x86_64                         1.10.2-2.5                    @System
+libgcrypt20.x86_64                         1.10.2-3.1                    @System
 libgdbm6.x86_64                            1.23-2.2                      @System
 libgdbm_compat4.x86_64                     1.23-2.2                      @System
 libgio-2_0-0.x86_64                        2.78.0-2.1                    @System
@@ -264,7 +264,7 @@ libz1.x86_64                               1.2.13-4.5                    @System
 libzck1.x86_64                             1.3.1-1.2                     @System
 libzio1.x86_64                             1.08-2.8                      @System
 libzstd1.x86_64                            1.5.5-3.5                     @System
-libzypp.x86_64                             17.31.22-1.1                  @System
+libzypp.x86_64                             17.31.22-2.1                  @System
 login_defs.noarch                          4.14.1-1.2                    @System
 lsb-release.noarch                         3.2-3.1                       @System
 lsof.x86_64                                4.98.0-2.4                    @System
@@ -280,8 +280,8 @@ open-iscsi.x86_64                          2.1.9-101.2                   @System
 open-isns.x86_64                           0.102-2.2                     @System
 open-lldp.x86_64                           1.1+58.8ca361bab766-1.4       @System
 openSUSE-build-key.x86_64                  1.0-48.1                      @System
-openSUSE-release.x86_64                    20231012-2535.1               @System
-openSUSE-release-appliance-docker.x86_64   20231012-2535.1               @System
+openSUSE-release.x86_64                    20231013-2537.1               @System
+openSUSE-release-appliance-docker.x86_64   20231013-2537.1               @System
 openssh-common.x86_64                      9.3p2-2.3                     @System
 openssh-fips.x86_64                        9.3p2-2.3                     @System
 openssh-server.x86_64                      9.3p2-2.3                     @System
