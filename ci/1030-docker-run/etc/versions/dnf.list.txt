@@ -262,7 +262,7 @@ libyajl2.x86_64                            2.1.0-8.3                     @System
 libyaml-0-2.x86_64                         0.2.5-2.3                     @System
 libyaml-cpp0_8.x86_64                      0.8.0-1.1                     @System
 libz1.x86_64                               1.2.13-4.5                    @System
-libzck1.x86_64                             1.3.1-1.2                     @System
+libzck1.x86_64                             1.3.2-1.1                     @System
 libzio1.x86_64                             1.08-2.8                      @System
 libzstd1.x86_64                            1.5.5-3.5                     @System
 libzypp.x86_64                             17.31.22-2.1                  @System
@@ -281,8 +281,8 @@ open-iscsi.x86_64                          2.1.9-101.2                   @System
 open-isns.x86_64                           0.102-2.2                     @System
 open-lldp.x86_64                           1.1+58.8ca361bab766-1.4       @System
 openSUSE-build-key.x86_64                  1.0-48.1                      @System
-openSUSE-release.x86_64                    20231015-2539.1               @System
-openSUSE-release-appliance-docker.x86_64   20231015-2539.1               @System
+openSUSE-release.x86_64                    20231016-2541.1               @System
+openSUSE-release-appliance-docker.x86_64   20231016-2541.1               @System
 openssh-common.x86_64                      9.3p2-2.3                     @System
 openssh-fips.x86_64                        9.3p2-2.3                     @System
 openssh-server.x86_64                      9.3p2-2.3                     @System
@@ -356,7 +356,7 @@ rsync.x86_64                               3.2.7-5.1                     @System
 screen.x86_64                              4.9.1-1.2                     @System
 sed.x86_64                                 4.9-2.4                       @System
 shadow.x86_64                              4.14.1-1.2                    @System
-shared-mime-info.x86_64                    2.2-2.3                       @System
+shared-mime-info.x86_64                    2.3-1.1                       @System
 snapper.x86_64                             0.10.6-1.1                    @System
 squashfs.x86_64                            4.6.1-2.2                     @System
 sudo.x86_64                                1.9.14p3-1.1                  @System
