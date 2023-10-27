@@ -144,7 +144,7 @@ libgnutls30.x86_64                                3.8.1-1.2                     
 libgobject-2_0-0.x86_64                           2.78.0-3.1                    @System
 libgomp1.x86_64                                   13.2.1+git7813-2.2            @System
 libgpg-error0.x86_64                              1.47-2.1                      @System
-libgpgme11.x86_64                                 1.22.0-2.2                    @System
+libgpgme11.x86_64                                 1.23.0-1.1                    @System
 libhidapi-hidraw0.x86_64                          0.14.0-1.1                    @System
 libhogweed6.x86_64                                3.9.1-2.3                     @System
 libhugetlbfs.x86_64                               2.23.0.g6b126a4-3.4           @System
@@ -234,7 +234,7 @@ libssh-config.x86_64                              0.10.5-3.1                    
 libssh4.x86_64                                    0.10.5-3.1                    @System
 libstdc++6.x86_64                                 13.2.1+git7813-2.2            @System
 libsubid4.x86_64                                  4.14.1-1.2                    @System
-libsystemd0.x86_64                                254.5-2.2                     @System
+libsystemd0.x86_64                                254.5-3.1                     @System
 libtasn1-6.x86_64                                 4.19.0-1.5                    @System
 libtirpc-netconfig.x86_64                         1.3.4-1.1                     @System
 libtirpc3.x86_64                                  1.3.4-1.1                     @System
@@ -243,7 +243,7 @@ libtss2-mu0.x86_64                                4.0.1-2.2                     
 libtss2-rc0.x86_64                                4.0.1-2.2                     @System
 libtss2-sys1.x86_64                               4.0.1-2.2                     @System
 libtukit4.x86_64                                  4.4.0-1.1                     @System
-libudev1.x86_64                                   254.5-2.2                     @System
+libudev1.x86_64                                   254.5-3.1                     @System
 libunistring5.x86_64                              1.1-3.1                       @System
 liburcu8.x86_64                                   0.14.0-1.3                    @System
 liburing2.x86_64                                  2.4-3.1                       @System
@@ -281,8 +281,8 @@ open-iscsi.x86_64                                 2.1.9-101.2                   
 open-isns.x86_64                                  0.102-2.2                     @System
 open-lldp.x86_64                                  1.1+58.8ca361bab766-1.4       @System
 openSUSE-build-key.x86_64                         1.0-48.1                      @System
-openSUSE-release.x86_64                           20231025-2558.1               @System
-openSUSE-release-appliance-docker.x86_64          20231025-2558.1               @System
+openSUSE-release.x86_64                           20231026-2560.1               @System
+openSUSE-release-appliance-docker.x86_64          20231026-2560.1               @System
 openssh-common.x86_64                             9.3p2-3.1                     @System
 openssh-fips.x86_64                               9.3p2-3.1                     @System
 openssh-server.x86_64                             9.3p2-3.1                     @System
