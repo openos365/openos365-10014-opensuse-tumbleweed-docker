@@ -7,7 +7,6 @@ bash.x86_64                                       5.2.15-8.6                    
 bash-sh.noarch                                    5.2.15-8.6                    @System
 bc.x86_64                                         1.07.1-4.31                   @System
 binutils.x86_64                                   2.40-5.5                      @System
-boost-license1_82_0.noarch                        1.82.0-1.5                    @System
 boost-license1_83_0.noarch                        1.83.0-1.1                    @System
 branding-openSUSE.noarch                          84.87.20230227-3.3            @System
 btrfsprogs.x86_64                                 6.5.1-1.2                     @System
@@ -92,7 +91,6 @@ libattr1.x86_64                                   2.5.1-1.28                    
 libaudit1.x86_64                                  3.1.1-1.4                     @System
 libaugeas0.x86_64                                 1.14.1-1.1                    @System
 libblkid1.x86_64                                  2.39.2-1.2                    @System
-libboost_thread1_82_0.x86_64                      1.82.0-1.5                    @System
 libboost_thread1_83_0.x86_64                      1.83.0-1.1                    @System
 libbpf1.x86_64                                    1.2.2-1.3                     @System
 libbrotlicommon1.x86_64                           1.0.9-3.6                     @System
@@ -196,7 +194,7 @@ libnss_usrfiles2.x86_64                           2.27-3.16                     
 libnuma1.x86_64                                   2.0.16.21.g693fee1-1.3        @System
 libnvme-mi1.x86_64                                1.6+5.g68c6ffb-1.1            @System
 libnvme1.x86_64                                   1.6+5.g68c6ffb-1.1            @System
-libopeniscsiusr0.x86_64                           0.2.0-101.2                   @System
+libopeniscsiusr0.x86_64                           0.2.0-102.1                   @System
 libopenssl1_1.x86_64                              1.1.1w-3.1                    @System
 libopenssl3.x86_64                                3.1.4-1.1                     @System
 libp11-kit0.x86_64                                0.25.1-1.1                    @System
@@ -229,7 +227,7 @@ libsha1detectcoll1.x86_64                         1.0.3-4.20                    
 libsigc-2_0-0.x86_64                              2.12.1-1.1                    @System
 libslirp0.x86_64                                  4.7.0+44-3.3                  @System
 libsmartcols1.x86_64                              2.39.2-1.2                    @System
-libsnapper7.x86_64                                0.10.6-1.1                    @System
+libsnapper7.x86_64                                0.10.6-1.2                    @System
 libsnappy1.x86_64                                 1.1.9-2.8                     @System
 libsolv-tools.x86_64                              0.7.25-1.2                    @System
 libsqlite3-0.x86_64                               3.43.2-1.1                    @System
@@ -256,7 +254,7 @@ libuuid1.x86_64                                   2.39.2-1.2                    
 libvdeplug3.x86_64                                2.3.2+svn587-3.24             @System
 libverto1.x86_64                                  0.3.2-3.1                     @System
 libwrap0.x86_64                                   7.6-895.6                     @System
-libwtmpdb0.x86_64                                 0.9.2-1.1                     @System
+libwtmpdb0.x86_64                                 0.9.3-1.1                     @System
 libxml2-2.x86_64                                  2.10.4-3.1                    @System
 libxslt1.x86_64                                   1.1.38-1.3                    @System
 libxtables12.x86_64                               1.8.10-2.1                    @System
@@ -280,7 +278,7 @@ nbd.x86_64                                        3.25-1.2                      
 ncurses-utils.x86_64                              6.4.20231007-21.1             @System
 netcfg.noarch                                     11.6-11.1                     @System
 nvme-cli.x86_64                                   2.6-4.1                       @System
-open-iscsi.x86_64                                 2.1.9-101.2                   @System
+open-iscsi.x86_64                                 2.1.9-102.1                   @System
 open-isns.x86_64                                  0.102-2.2                     @System
 open-lldp.x86_64                                  1.1+58.8ca361bab766-1.4       @System
 openSUSE-build-key.x86_64                         1.0-48.1                      @System
@@ -361,10 +359,10 @@ screen.x86_64                                     4.9.1-1.2                     
 sed.x86_64                                        4.9-2.4                       @System
 shadow.x86_64                                     4.14.1-1.2                    @System
 shared-mime-info.x86_64                           2.3-1.1                       @System
-snapper.x86_64                                    0.10.6-1.1                    @System
+snapper.x86_64                                    0.10.6-1.2                    @System
 squashfs.x86_64                                   4.6.1-2.2                     @System
 sudo.x86_64                                       1.9.14p3-1.1                  @System
-suse-module-tools.x86_64                          16.0.36-2.1                   @System
+suse-module-tools.x86_64                          16.0.37-1.1                   @System
 system-group-hardware.noarch                      20170617-25.2                 @System
 system-group-kvm.noarch                           20170617-25.2                 @System
 system-user-lp.noarch                             20170617-25.2                 @System
