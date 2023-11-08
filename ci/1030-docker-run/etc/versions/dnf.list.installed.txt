@@ -47,7 +47,7 @@ dracut-tools.x86_64                               059+suse.511.g0bdb16ac-1.1    
 dracut-transactional-update.noarch                4.4.0-1.1                     @System
 e2fsprogs.x86_64                                  1.47.0-2.1                    @System
 elfutils.x86_64                                   0.189-5.2                     @System
-evmctl.x86_64                                     1.5-1.4                       @System
+evmctl.x86_64                                     1.5-1.5                       @System
 fcoe-utils.x86_64                                 1.0.34-4.10                   @System
 file.x86_64                                       5.45-1.4                      @System
 file-magic.noarch                                 5.45-1.4                      @System
@@ -151,7 +151,7 @@ libhugetlbfs.x86_64                               2.23.0.g6b126a4-3.4           
 libibverbs.x86_64                                 48.0-1.1                      @System
 libibverbs1.x86_64                                48.0-1.1                      @System
 libidn2-0.x86_64                                  2.3.4-1.4                     @System
-libimaevm4.x86_64                                 1.5-1.4                       @System
+libimaevm4.x86_64                                 1.5-1.5                       @System
 libinih0.x86_64                                   57-1.2                        @System
 libip4tc2.x86_64                                  1.8.10-2.1                    @System
 libisoburn1.x86_64                                1.5.6-1.1                     @System
