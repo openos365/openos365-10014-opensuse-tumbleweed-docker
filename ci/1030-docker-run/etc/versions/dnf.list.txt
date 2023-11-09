@@ -93,8 +93,8 @@ libaugeas0.x86_64                                 1.14.1-1.1                    
 libblkid1.x86_64                                  2.39.2-2.1                    @System
 libboost_thread1_83_0.x86_64                      1.83.0-1.1                    @System
 libbpf1.x86_64                                    1.2.2-1.3                     @System
-libbrotlicommon1.x86_64                           1.0.9-3.6                     @System
-libbrotlidec1.x86_64                              1.0.9-3.6                     @System
+libbrotlicommon1.x86_64                           1.1.0-1.1                     @System
+libbrotlidec1.x86_64                              1.1.0-1.1                     @System
 libbtrfs0.x86_64                                  6.5.1-1.2                     @System
 libbtrfsutil1.x86_64                              6.5.1-1.2                     @System
 libburn4.x86_64                                   1.5.6-2.1                     @System
@@ -186,7 +186,7 @@ libmpfr6.x86_64                                   4.2.1-1.2                     
 libncurses6.x86_64                                6.4.20231021-22.1             @System
 libndctl6.x86_64                                  78-1.1                        @System
 libnettle8.x86_64                                 3.9.1-2.3                     @System
-libnghttp2-14.x86_64                              1.57.0-1.1                    @System
+libnghttp2-14.x86_64                              1.57.0-2.1                    @System
 libnl-config.noarch                               3.8.0-1.1                     @System
 libnl3-200.x86_64                                 3.8.0-1.1                     @System
 libnpth0.x86_64                                   1.6-2.11                      @System
@@ -230,7 +230,7 @@ libsmartcols1.x86_64                              2.39.2-2.1                    
 libsnapper7.x86_64                                0.10.6-1.2                    @System
 libsnappy1.x86_64                                 1.1.9-2.8                     @System
 libsolv-tools.x86_64                              0.7.25-1.2                    @System
-libsqlite3-0.x86_64                               3.43.2-1.1                    @System
+libsqlite3-0.x86_64                               3.44.0-1.1                    @System
 libssh-config.x86_64                              0.10.5-3.1                    @System
 libssh4.x86_64                                    0.10.5-3.1                    @System
 libstdc++6.x86_64                                 13.2.1+git7813-2.2            @System
@@ -282,8 +282,8 @@ open-iscsi.x86_64                                 2.1.9-103.1                   
 open-isns.x86_64                                  0.102-2.2                     @System
 open-lldp.x86_64                                  1.1+77.75e83b6fb98e-1.1       @System
 openSUSE-build-key.x86_64                         1.0-48.1                      @System
-openSUSE-release.x86_64                           20231107-2582.1               @System
-openSUSE-release-appliance-docker.x86_64          20231107-2582.1               @System
+openSUSE-release.x86_64                           20231108-2584.1               @System
+openSUSE-release-appliance-docker.x86_64          20231108-2584.1               @System
 openssh-common.x86_64                             9.3p2-3.1                     @System
 openssh-fips.x86_64                               9.3p2-3.1                     @System
 openssh-server.x86_64                             9.3p2-3.1                     @System
@@ -374,7 +374,7 @@ systemd-default-settings-branding-openSUSE.noarch 0.8-1.1                       
 systemd-presets-branding-openSUSE.noarch          12.2-23.1                     @System
 systemd-presets-common-SUSE.noarch                15-30.1                       @System
 systemd-rpm-macros.noarch                         24-1.4                        @System
-sysuser-shadow.noarch                             3.2-1.4                       @System
+sysuser-shadow.noarch                             3.2-2.1                       @System
 tar.x86_64                                        1.34-12.2                     @System
 terminfo-base.x86_64                              6.4.20231021-22.1             @System
 thin-provisioning-tools.x86_64                    0.9.0-2.11                    @System
