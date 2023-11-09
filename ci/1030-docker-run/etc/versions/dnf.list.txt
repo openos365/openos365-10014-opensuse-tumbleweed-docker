@@ -148,7 +148,7 @@ libgpg-error0.x86_64                              1.47-2.1                      
 libgpgme11.x86_64                                 1.23.1-1.1                    @System
 libhidapi-hidraw0.x86_64                          0.14.0-1.1                    @System
 libhogweed6.x86_64                                3.9.1-2.3                     @System
-libhugetlbfs.x86_64                               2.23.0.g6b126a4-3.4           @System
+libhugetlbfs.x86_64                               2.23.0.g6b126a4-4.1           @System
 libibverbs.x86_64                                 48.0-1.1                      @System
 libibverbs1.x86_64                                48.0-1.1                      @System
 libidn2-0.x86_64                                  2.3.4-1.4                     @System
@@ -289,7 +289,7 @@ openssh-fips.x86_64                               9.3p2-3.1                     
 openssh-server.x86_64                             9.3p2-3.1                     @System
 openssl.noarch                                    3.1.4-1.1                     @System
 openssl-3.x86_64                                  3.1.4-1.1                     @System
-osc.noarch                                        1.4.3-3.1                     @System
+osc.noarch                                        1.4.4-1.1                     @System
 p11-kit.x86_64                                    0.25.2-1.1                    @System
 p11-kit-tools.x86_64                              0.25.2-1.1                    @System
 pam.x86_64                                        1.5.3-3.3                     @System
