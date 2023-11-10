@@ -183,7 +183,7 @@ libmount1.x86_64                                  2.39.2-2.1                    
 libmpdec3.x86_64                                  2.5.1-2.17                    @System
 libmpfr6.x86_64                                   4.2.1-1.2                     @System
 libncurses6.x86_64                                6.4.20231021-22.1             @System
-libndctl6.x86_64                                  78-1.1                        @System
+libndctl6.x86_64                                  78-2.1                        @System
 libnettle8.x86_64                                 3.9.1-2.3                     @System
 libnghttp2-14.x86_64                              1.57.0-2.1                    @System
 libnl-config.noarch                               3.8.0-1.1                     @System
@@ -257,7 +257,7 @@ libwtmpdb0.x86_64                                 0.9.3-1.1                     
 libxml2-2.x86_64                                  2.11.5-1.1                    @System
 libxslt1.x86_64                                   1.1.38-1.3                    @System
 libxtables12.x86_64                               1.8.10-2.1                    @System
-libxxhash0.x86_64                                 0.8.1-3.6                     @System
+libxxhash0.x86_64                                 0.8.2-1.1                     @System
 libyajl2.x86_64                                   2.1.0-8.3                     @System
 libyaml-0-2.x86_64                                0.2.5-2.3                     @System
 libyaml-cpp0_8.x86_64                             0.8.0-1.1                     @System
