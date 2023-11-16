@@ -183,7 +183,7 @@ libmodulemd2.x86_64                               2.15.0-1.1                    
 libmount1.x86_64                                  2.39.2-2.1                    @System
 libmpdec3.x86_64                                  2.5.1-2.17                    @System
 libmpfr6.x86_64                                   4.2.1-1.2                     @System
-libncurses6.x86_64                                6.4.20231021-22.1             @System
+libncurses6.x86_64                                6.4.20231111-23.1             @System
 libndctl6.x86_64                                  78-2.1                        @System
 libnettle8.x86_64                                 3.9.1-2.3                     @System
 libnghttp2-14.x86_64                              1.57.0-2.1                    @System
@@ -228,7 +228,7 @@ libsigc-2_0-0.x86_64                              2.12.1-1.1                    
 libslirp0.x86_64                                  4.7.0+44-3.3                  @System
 libsmartcols1.x86_64                              2.39.2-2.1                    @System
 libsnapper7.x86_64                                0.10.6-1.2                    @System
-libsnappy1.x86_64                                 1.1.9-2.8                     @System
+libsnappy1.x86_64                                 1.1.10-1.1                    @System
 libsolv-tools.x86_64                              0.7.25-1.2                    @System
 libsqlite3-0.x86_64                               3.44.0-1.1                    @System
 libssh-config.x86_64                              0.10.5-3.1                    @System
@@ -275,15 +275,15 @@ mdadm.x86_64                                      4.2-9.3                       
 microdnf.x86_64                                   3.9.1-1.5                     @System
 mtools.x86_64                                     4.0.43-1.4                    @System
 nbd.x86_64                                        3.25-1.2                      @System
-ncurses-utils.x86_64                              6.4.20231021-22.1             @System
+ncurses-utils.x86_64                              6.4.20231111-23.1             @System
 netcfg.noarch                                     11.6-11.1                     @System
-nvme-cli.x86_64                                   2.6-4.1                       @System
+nvme-cli.x86_64                                   2.6-5.1                       @System
 open-iscsi.x86_64                                 2.1.9-103.1                   @System
 open-isns.x86_64                                  0.102-2.2                     @System
 open-lldp.x86_64                                  1.1+77.75e83b6fb98e-1.1       @System
 openSUSE-build-key.x86_64                         1.0-48.1                      @System
-openSUSE-release.x86_64                           20231113-2588.1               @System
-openSUSE-release-appliance-docker.x86_64          20231113-2588.1               @System
+openSUSE-release.x86_64                           20231114-2590.1               @System
+openSUSE-release-appliance-docker.x86_64          20231114-2590.1               @System
 openssh-common.x86_64                             9.3p2-3.1                     @System
 openssh-fips.x86_64                               9.3p2-3.1                     @System
 openssh-server.x86_64                             9.3p2-3.1                     @System
@@ -323,7 +323,7 @@ python311-base.x86_64                             3.11.5-2.2                    
 python311-certifi.noarch                          2023.7.22-2.2                 @System
 python311-cffi.x86_64                             1.16.0-1.1                    @System
 python311-charset-normalizer.noarch               3.2.0-1.2                     @System
-python311-cryptography.x86_64                     41.0.4-1.3                    @System
+python311-cryptography.x86_64                     41.0.5-1.1                    @System
 python311-cssselect.noarch                        1.2.0-2.4                     @System
 python311-curses.x86_64                           3.11.5-2.1                    @System
 python311-docopt.noarch                           0.6.2-8.2                     @System
@@ -376,7 +376,7 @@ systemd-presets-common-SUSE.noarch                15-30.1                       
 systemd-rpm-macros.noarch                         24-1.4                        @System
 sysuser-shadow.noarch                             3.2-2.1                       @System
 tar.x86_64                                        1.34-12.2                     @System
-terminfo-base.x86_64                              6.4.20231021-22.1             @System
+terminfo-base.x86_64                              6.4.20231111-23.1             @System
 thin-provisioning-tools.x86_64                    0.9.0-2.11                    @System
 timezone.x86_64                                   2023c-1.5                     @System
 tukit.x86_64                                      4.4.0-1.1                     @System
