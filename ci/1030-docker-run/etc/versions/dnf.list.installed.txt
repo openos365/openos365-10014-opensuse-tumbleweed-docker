@@ -164,7 +164,7 @@ libkcapi-tools.x86_64                             1.4.0-2.6                     
 libkcapi1.x86_64                                  1.4.0-2.6                     @System
 libkeyutils1.x86_64                               1.6.3-6.3                     @System
 libkmod2.x86_64                                   31-1.1                        @System
-libksba8.x86_64                                   1.6.4-2.1                     @System
+libksba8.x86_64                                   1.6.5-1.1                     @System
 libldap2.x86_64                                   2.6.6-1.1                     @System
 liblldp_clif1.x86_64                              1.1+77.75e83b6fb98e-1.1       @System
 liblua5_4-5.x86_64                                5.4.6-2.1                     @System
@@ -228,7 +228,7 @@ libslirp0.x86_64                                  4.7.0+44-3.3                  
 libsmartcols1.x86_64                              2.39.2-2.1                    @System
 libsnapper7.x86_64                                0.10.6-1.2                    @System
 libsnappy1.x86_64                                 1.1.10-1.1                    @System
-libsolv-tools.x86_64                              0.7.25-1.2                    @System
+libsolv-tools.x86_64                              0.7.26-1.1                    @System
 libsqlite3-0.x86_64                               3.44.0-1.2                    @System
 libssh-config.x86_64                              0.10.5-3.1                    @System
 libssh4.x86_64                                    0.10.5-3.1                    @System
@@ -254,7 +254,7 @@ libvdeplug3.x86_64                                2.3.2+svn587-3.24             
 libverto1.x86_64                                  0.3.2-3.1                     @System
 libwrap0.x86_64                                   7.6-895.6                     @System
 libwtmpdb0.x86_64                                 0.9.3-1.1                     @System
-libxml2-2.x86_64                                  2.11.5-2.1                    @System
+libxml2-2.x86_64                                  2.11.6-1.1                    @System
 libxslt1.x86_64                                   1.1.38-1.3                    @System
 libxtables12.x86_64                               1.8.10-2.1                    @System
 libxxhash0.x86_64                                 0.8.2-1.1                     @System
@@ -265,7 +265,7 @@ libz1.x86_64                                      1.3-1.1                       
 libzck1.x86_64                                    1.3.2-1.1                     @System
 libzio1.x86_64                                    1.08-2.8                      @System
 libzstd1.x86_64                                   1.5.5-3.5                     @System
-libzypp.x86_64                                    17.31.23-1.2                  @System
+libzypp.x86_64                                    17.31.23-1.3                  @System
 login_defs.noarch                                 4.14.2-1.1                    @System
 lsb-release.noarch                                3.3-1.1                       @System
 lsof.x86_64                                       4.99.0-1.1                    @System
@@ -281,8 +281,8 @@ open-iscsi.x86_64                                 2.1.9-103.1                   
 open-isns.x86_64                                  0.102-2.2                     @System
 open-lldp.x86_64                                  1.1+77.75e83b6fb98e-1.1       @System
 openSUSE-build-key.x86_64                         1.0-48.1                      @System
-openSUSE-release.x86_64                           20231119-2598.1               @System
-openSUSE-release-appliance-docker.x86_64          20231119-2598.1               @System
+openSUSE-release.x86_64                           20231120-2600.1               @System
+openSUSE-release-appliance-docker.x86_64          20231120-2600.1               @System
 openssh-common.x86_64                             9.3p2-3.1                     @System
 openssh-fips.x86_64                               9.3p2-3.1                     @System
 openssh-server.x86_64                             9.3p2-3.1                     @System
