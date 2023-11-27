@@ -228,7 +228,7 @@ libslirp0.x86_64                                  4.7.0+44-3.3                  
 libsmartcols1.x86_64                              2.39.2-2.1                    @System
 libsnapper7.x86_64                                0.10.6-1.2                    @System
 libsnappy1.x86_64                                 1.1.10-1.1                    @System
-libsolv-tools.x86_64                              0.7.26-1.1                    @System
+libsolv-tools.x86_64                              0.7.27-1.1                    @System
 libsqlite3-0.x86_64                               3.44.0-1.2                    @System
 libssh-config.x86_64                              0.10.5-3.1                    @System
 libssh4.x86_64                                    0.10.5-3.1                    @System
@@ -265,7 +265,7 @@ libz1.x86_64                                      1.3-1.1                       
 libzck1.x86_64                                    1.3.2-1.1                     @System
 libzio1.x86_64                                    1.08-2.8                      @System
 libzstd1.x86_64                                   1.5.5-3.5                     @System
-libzypp.x86_64                                    17.31.23-1.3                  @System
+libzypp.x86_64                                    17.31.23-1.4                  @System
 login_defs.noarch                                 4.14.2-1.1                    @System
 lsb-release.noarch                                3.3-1.1                       @System
 lsof.x86_64                                       4.99.0-1.1                    @System
@@ -281,8 +281,8 @@ open-iscsi.x86_64                                 2.1.9-103.1                   
 open-isns.x86_64                                  0.102-2.2                     @System
 open-lldp.x86_64                                  1.1+77.75e83b6fb98e-1.1       @System
 openSUSE-build-key.x86_64                         1.0-48.1                      @System
-openSUSE-release.x86_64                           20231124-2608.1               @System
-openSUSE-release-appliance-docker.x86_64          20231124-2608.1               @System
+openSUSE-release.x86_64                           20231126-2610.1               @System
+openSUSE-release-appliance-docker.x86_64          20231126-2610.1               @System
 openssh-common.x86_64                             9.3p2-3.1                     @System
 openssh-fips.x86_64                               9.3p2-3.1                     @System
 openssh-server.x86_64                             9.3p2-3.1                     @System
