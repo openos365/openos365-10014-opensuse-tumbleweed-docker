@@ -186,7 +186,7 @@ libmpfr6.x86_64                                   4.2.1-1.2                     
 libncurses6.x86_64                                6.4.20231111-23.1             @System
 libndctl6.x86_64                                  78-2.1                        @System
 libnettle8.x86_64                                 3.9.1-2.3                     @System
-libnghttp2-14.x86_64                              1.57.0-3.1                    @System
+libnghttp2-14.x86_64                              1.58.0-1.1                    @System
 libnl-config.noarch                               3.8.0-1.1                     @System
 libnl3-200.x86_64                                 3.8.0-1.1                     @System
 libnpth0.x86_64                                   1.6-2.11                      @System
@@ -282,8 +282,8 @@ open-iscsi.x86_64                                 2.1.9-103.1                   
 open-isns.x86_64                                  0.102-2.2                     @System
 open-lldp.x86_64                                  1.1+77.75e83b6fb98e-1.1       @System
 openSUSE-build-key.x86_64                         1.0-48.1                      @System
-openSUSE-release.x86_64                           20231126-2610.1               @System
-openSUSE-release-appliance-docker.x86_64          20231126-2610.1               @System
+openSUSE-release.x86_64                           20231127-2612.1               @System
+openSUSE-release-appliance-docker.x86_64          20231127-2612.1               @System
 openssh-common.x86_64                             9.3p2-3.1                     @System
 openssh-fips.x86_64                               9.3p2-3.1                     @System
 openssh-server.x86_64                             9.3p2-3.1                     @System
