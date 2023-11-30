@@ -238,10 +238,10 @@ libsystemd0.x86_64                                254.5-5.1                     
 libtasn1-6.x86_64                                 4.19.0-1.5                    @System
 libtirpc-netconfig.x86_64                         1.3.4-1.1                     @System
 libtirpc3.x86_64                                  1.3.4-1.1                     @System
-libtss2-esys0.x86_64                              4.0.1-2.2                     @System
-libtss2-mu0.x86_64                                4.0.1-2.2                     @System
-libtss2-rc0.x86_64                                4.0.1-2.2                     @System
-libtss2-sys1.x86_64                               4.0.1-2.2                     @System
+libtss2-esys0.x86_64                              4.0.1-3.1                     @System
+libtss2-mu0.x86_64                                4.0.1-3.1                     @System
+libtss2-rc0.x86_64                                4.0.1-3.1                     @System
+libtss2-sys1.x86_64                               4.0.1-3.1                     @System
 libtukit4.x86_64                                  4.5.0-1.1                     @System
 libudev1.x86_64                                   254.5-5.1                     @System
 libunistring5.x86_64                              1.1-3.1                       @System
@@ -292,7 +292,7 @@ osc.noarch                                        1.5.0-1.1                     
 p11-kit.x86_64                                    0.25.3-1.1                    @System
 p11-kit-tools.x86_64                              0.25.3-1.1                    @System
 pam.x86_64                                        1.5.3-3.3                     @System
-pam-config.x86_64                                 2.9-1.1                       @System
+pam-config.x86_64                                 2.10-1.1                      @System
 patterns-base-fips.x86_64                         20200505-45.1                 @System
 patterns-base-minimal_base.x86_64                 20200505-45.1                 @System
 perl.x86_64                                       5.38.0-2.1                    @System
@@ -321,7 +321,7 @@ python311-apipkg.noarch                           3.0.2-1.1                     
 python311-base.x86_64                             3.11.6-1.2                    @System
 python311-certifi.noarch                          2023.7.22-2.2                 @System
 python311-cffi.x86_64                             1.16.0-1.1                    @System
-python311-charset-normalizer.noarch               3.3.0-1.1                     @System
+python311-charset-normalizer.noarch               3.3.2-1.1                     @System
 python311-cryptography.x86_64                     41.0.5-1.1                    @System
 python311-cssselect.noarch                        1.2.0-2.4                     @System
 python311-curses.x86_64                           3.11.6-1.1                    @System
@@ -330,7 +330,7 @@ python311-gobject.x86_64                          3.46.0-1.2                    
 python311-gpg.x86_64                              1.23.1-1.1                    @System
 python311-idna.noarch                             3.4-2.4                       @System
 python311-iniconfig.noarch                        2.0.0-4.1                     @System
-python311-lxml.x86_64                             4.9.3-2.1                     @System
+python311-lxml.x86_64                             4.9.3-3.1                     @System
 python311-py.noarch                               1.11.0-6.1                    @System
 python311-pyOpenSSL.noarch                        23.2.0-1.2                    @System
 python311-pycparser.noarch                        2.21-2.3                      @System
