@@ -183,7 +183,7 @@ libmodulemd2.x86_64                               2.15.0-1.1                    
 libmount1.x86_64                                  2.39.2-3.1                    @System
 libmpdec3.x86_64                                  2.5.1-2.17                    @System
 libmpfr6.x86_64                                   4.2.1-1.2                     @System
-libncurses6.x86_64                                6.4.20231111-23.1             @System
+libncurses6.x86_64                                6.4.20231125-24.1             @System
 libndctl6.x86_64                                  78-2.1                        @System
 libnettle8.x86_64                                 3.9.1-2.3                     @System
 libnghttp2-14.x86_64                              1.58.0-1.1                    @System
@@ -275,15 +275,15 @@ mdadm.x86_64                                      4.2-10.1                      
 microdnf.x86_64                                   3.9.1-1.5                     @System
 mtools.x86_64                                     4.0.43-1.4                    @System
 nbd.x86_64                                        3.25-1.2                      @System
-ncurses-utils.x86_64                              6.4.20231111-23.1             @System
-netcfg.noarch                                     11.6-11.1                     @System
+ncurses-utils.x86_64                              6.4.20231125-24.1             @System
+netcfg.noarch                                     11.6-12.1                     @System
 nvme-cli.x86_64                                   2.6-5.1                       @System
 open-iscsi.x86_64                                 2.1.9-103.1                   @System
 open-isns.x86_64                                  0.102-2.2                     @System
 open-lldp.x86_64                                  1.1+77.75e83b6fb98e-1.1       @System
 openSUSE-build-key.x86_64                         1.0-48.1                      @System
-openSUSE-release.x86_64                           20231129-2616.1               @System
-openSUSE-release-appliance-docker.x86_64          20231129-2616.1               @System
+openSUSE-release.x86_64                           20231130-2618.1               @System
+openSUSE-release-appliance-docker.x86_64          20231130-2618.1               @System
 openssh-common.x86_64                             9.3p2-3.1                     @System
 openssh-fips.x86_64                               9.3p2-3.1                     @System
 openssh-server.x86_64                             9.3p2-3.1                     @System
@@ -376,7 +376,7 @@ systemd-presets-common-SUSE.noarch                15-30.1                       
 systemd-rpm-macros.noarch                         24-1.4                        @System
 sysuser-shadow.noarch                             3.2-2.1                       @System
 tar.x86_64                                        1.34-12.2                     @System
-terminfo-base.x86_64                              6.4.20231111-23.1             @System
+terminfo-base.x86_64                              6.4.20231125-24.1             @System
 thin-provisioning-tools.x86_64                    1.0.7-2.1                     @System
 timezone.x86_64                                   2023c-1.5                     @System
 tukit.x86_64                                      4.5.0-1.1                     @System
