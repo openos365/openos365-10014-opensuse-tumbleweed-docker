@@ -8,6 +8,7 @@ bash-sh.noarch                                    5.2.21-9.1                    
 bc.x86_64                                         1.07.1-4.31                   @System
 binutils.x86_64                                   2.41-1.2                      @System
 boost-license1_83_0.noarch                        1.83.0-1.1                    @System
+boost-license1_84_0.noarch                        1.84.0-1.1                    @System
 branding-openSUSE.noarch                          84.87.20230227-3.3            @System
 btrfsprogs.x86_64                                 6.6.2-1.1                     @System
 btrfsprogs-udev-rules.noarch                      6.6.2-1.1                     @System
@@ -22,7 +23,7 @@ cracklib.x86_64                                   2.9.11-1.2                    
 cracklib-dict-small.x86_64                        2.9.11-1.2                    @System
 crypto-policies.noarch                            20230920.570ea89-2.2          @System
 cryptsetup.x86_64                                 2.6.1-3.2                     @System
-curl.x86_64                                       8.4.0-1.1                     @System
+curl.x86_64                                       8.5.0-1.1                     @System
 dbus-1.x86_64                                     1.14.10-2.1                   @System
 dbus-1-common.noarch                              1.14.10-2.1                   @System
 dbus-1-daemon.x86_64                              1.14.10-2.1                   @System
@@ -92,6 +93,7 @@ libaudit1.x86_64                                  3.1.1-1.4                     
 libaugeas0.x86_64                                 1.14.1-1.1                    @System
 libblkid1.x86_64                                  2.39.3-1.1                    @System
 libboost_thread1_83_0.x86_64                      1.83.0-1.1                    @System
+libboost_thread1_84_0.x86_64                      1.84.0-1.1                    @System
 libbpf1.x86_64                                    1.3.0-1.1                     @System
 libbrotlicommon1.x86_64                           1.1.0-1.1                     @System
 libbrotlidec1.x86_64                              1.1.0-1.1                     @System
@@ -111,7 +113,7 @@ libcrypt1.x86_64                                  4.4.36-1.4                    
 libcryptsetup12.x86_64                            2.6.1-3.2                     @System
 libctf-nobfd0.x86_64                              2.41-1.2                      @System
 libctf0.x86_64                                    2.41-1.2                      @System
-libcurl4.x86_64                                   8.4.0-1.1                     @System
+libcurl4.x86_64                                   8.5.0-1.1                     @System
 libdb-4_8.x86_64                                  4.8.30-42.4                   @System
 libdbus-1-3.x86_64                                1.14.10-2.1                   @System
 libdevmapper-event1_03.x86_64                     2.03.22_1.02.196-1.1          @System
@@ -206,7 +208,7 @@ libpkgconf3.x86_64                                1.8.0-2.6                     
 libpmem1.x86_64                                   1.11.1-1.9                    @System
 libpng16-16.x86_64                                1.6.40-1.2                    @System
 libpopt0.x86_64                                   1.19-1.6                      @System
-libprocps8.x86_64                                 3.3.17-15.1                   @System
+libprocps8.x86_64                                 3.3.17-16.1                   @System
 libprotobuf-lite23_4_0.x86_64                     23.4-7.2                      @System
 libproxy1.x86_64                                  0.5.3-1.1                     @System
 libpsl5.x86_64                                    0.21.2-1.5                    @System
@@ -230,7 +232,7 @@ libsmartcols1.x86_64                              2.39.3-1.1                    
 libsnapper7.x86_64                                0.10.7-1.1                    @System
 libsnappy1.x86_64                                 1.1.10-1.1                    @System
 libsolv-tools.x86_64                              0.7.27-1.2                    @System
-libsqlite3-0.x86_64                               3.44.1-1.1                    @System
+libsqlite3-0.x86_64                               3.44.2-1.1                    @System
 libssh-config.x86_64                              0.10.5-3.1                    @System
 libssh4.x86_64                                    0.10.5-3.1                    @System
 libstdc++6.x86_64                                 13.2.1+git8109-1.1            @System
@@ -266,7 +268,7 @@ libz1.x86_64                                      1.3-1.1                       
 libzck1.x86_64                                    1.3.2-1.1                     @System
 libzio1.x86_64                                    1.08-2.8                      @System
 libzstd1.x86_64                                   1.5.5-3.5                     @System
-libzypp.x86_64                                    17.31.23-1.4                  @System
+libzypp.x86_64                                    17.31.25-1.1                  @System
 login_defs.noarch                                 4.14.2-1.1                    @System
 lsb-release.noarch                                3.3-1.1                       @System
 lsof.x86_64                                       4.99.0-2.1                    @System
@@ -282,8 +284,8 @@ open-iscsi.x86_64                                 2.1.9-103.1                   
 open-isns.x86_64                                  0.102-2.2                     @System
 open-lldp.x86_64                                  1.1+77.75e83b6fb98e-1.1       @System
 openSUSE-build-key.x86_64                         1.0-48.1                      @System
-openSUSE-release.x86_64                           20231214-2646.1               @System
-openSUSE-release-appliance-docker.x86_64          20231214-2646.1               @System
+openSUSE-release.x86_64                           20231215-2648.1               @System
+openSUSE-release-appliance-docker.x86_64          20231215-2648.1               @System
 openssh-common.x86_64                             9.3p2-4.1                     @System
 openssh-fips.x86_64                               9.3p2-4.1                     @System
 openssh-server.x86_64                             9.3p2-4.1                     @System
@@ -308,7 +310,7 @@ pinentry.x86_64                                   1.2.1-3.3                     
 pkgconf.x86_64                                    1.8.0-2.6                     @System
 pkgconf-m4.noarch                                 1.8.0-2.6                     @System
 pkgconf-pkg-config.x86_64                         1.8.0-2.6                     @System
-procps.x86_64                                     3.3.17-15.1                   @System
+procps.x86_64                                     3.3.17-16.1                   @System
 pv.x86_64                                         1.7.24-4.1                    @System
 python3-dnf.noarch                                4.18.0-1.1                    @System
 python3-hawkey.x86_64                             0.72.0-1.1                    @System
@@ -391,4 +393,4 @@ xfsprogs.x86_64                                   6.5.0-1.1                     
 xorriso.x86_64                                    1.5.6-1.1                     @System
 xz.x86_64                                         5.4.5-1.1                     @System
 zstd.x86_64                                       1.5.5-3.5                     @System
-zypper.x86_64                                     1.14.67-1.1                   @System
+zypper.x86_64                                     1.14.68-1.1                   @System
