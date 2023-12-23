@@ -207,7 +207,7 @@ libpmem1.x86_64                                   1.11.1-1.9                    
 libpng16-16.x86_64                                1.6.40-1.2                    @System
 libpopt0.x86_64                                   1.19-1.6                      @System
 libprocps8.x86_64                                 3.3.17-16.1                   @System
-libprotobuf-lite23_4_0.x86_64                     23.4-7.2                      @System
+libprotobuf-lite23_4_0.x86_64                     23.4-8.1                      @System
 libproxy1.x86_64                                  0.5.3-1.1                     @System
 libpsl5.x86_64                                    0.21.2-1.5                    @System
 libpwquality1.x86_64                              1.4.5-1.5                     @System
@@ -266,7 +266,7 @@ libz1.x86_64                                      1.3-1.1                       
 libzck1.x86_64                                    1.3.2-1.1                     @System
 libzio1.x86_64                                    1.08-2.8                      @System
 libzstd1.x86_64                                   1.5.5-3.5                     @System
-libzypp.x86_64                                    17.31.25-1.1                  @System
+libzypp.x86_64                                    17.31.27-1.1                  @System
 login_defs.noarch                                 4.14.2-1.1                    @System
 lsb-release.noarch                                3.3-1.1                       @System
 lsof.x86_64                                       4.99.0-2.1                    @System
@@ -282,8 +282,8 @@ open-iscsi.x86_64                                 2.1.9-103.1                   
 open-isns.x86_64                                  0.102-2.2                     @System
 open-lldp.x86_64                                  1.1+77.75e83b6fb98e-1.1       @System
 openSUSE-build-key.x86_64                         1.0-48.1                      @System
-openSUSE-release.x86_64                           20231221-2659.1               @System
-openSUSE-release-appliance-docker.x86_64          20231221-2659.1               @System
+openSUSE-release.x86_64                           20231222-2661.1               @System
+openSUSE-release-appliance-docker.x86_64          20231222-2661.1               @System
 openssh-common.x86_64                             9.3p2-5.1                     @System
 openssh-fips.x86_64                               9.3p2-5.1                     @System
 openssh-server.x86_64                             9.3p2-5.1                     @System
