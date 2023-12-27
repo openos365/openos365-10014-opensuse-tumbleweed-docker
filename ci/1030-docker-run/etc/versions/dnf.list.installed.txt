@@ -281,8 +281,8 @@ open-iscsi.x86_64                                 2.1.9-103.1                   
 open-isns.x86_64                                  0.102-2.2                     @System
 open-lldp.x86_64                                  1.1+77.75e83b6fb98e-1.1       @System
 openSUSE-build-key.x86_64                         1.0-48.1                      @System
-openSUSE-release.x86_64                           20231222-2661.1               @System
-openSUSE-release-appliance-docker.x86_64          20231222-2661.1               @System
+openSUSE-release.x86_64                           20231225-2663.1               @System
+openSUSE-release-appliance-docker.x86_64          20231225-2663.1               @System
 openssh-common.x86_64                             9.3p2-5.1                     @System
 openssh-fips.x86_64                               9.3p2-5.1                     @System
 openssh-server.x86_64                             9.3p2-5.1                     @System
@@ -336,7 +336,7 @@ python311-pyOpenSSL.noarch                        23.3.0-1.1                    
 python311-pycparser.noarch                        2.21-2.3                      @System
 python311-requests.noarch                         2.31.0-2.1                    @System
 python311-rpm.x86_64                              4.18.0-6.1                    @System
-python311-setuptools.noarch                       68.1.2-2.1                    @System
+python311-setuptools.noarch                       69.0.2-1.1                    @System
 python311-simplejson.x86_64                       3.19.2-1.1                    @System
 python311-six.noarch                              1.16.0-3.4                    @System
 python311-urllib3.noarch                          2.1.0-1.1                     @System
