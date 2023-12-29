@@ -194,7 +194,7 @@ libnss_usrfiles2.x86_64                           2.27-3.16                     
 libnuma1.x86_64                                   2.0.16.21.g693fee1-1.3        @System
 libnvme-mi1.x86_64                                1.6+5.g68c6ffb-2.1            @System
 libnvme1.x86_64                                   1.6+5.g68c6ffb-2.1            @System
-libopeniscsiusr0.x86_64                           0.2.0-103.1                   @System
+libopeniscsiusr0.x86_64                           0.2.0-104.1                   @System
 libopenssl1_1.x86_64                              1.1.1w-5.1                    @System
 libopenssl3.x86_64                                3.1.4-2.1                     @System
 libp11-kit0.x86_64                                0.25.3-1.1                    @System
@@ -278,7 +278,7 @@ nbd.x86_64                                        3.25-1.2                      
 ncurses-utils.x86_64                              6.4.20231202-27.1             @System
 netcfg.noarch                                     11.6-12.1                     @System
 nvme-cli.x86_64                                   2.6-6.1                       @System
-open-iscsi.x86_64                                 2.1.9-103.1                   @System
+open-iscsi.x86_64                                 2.1.9-104.1                   @System
 open-isns.x86_64                                  0.102-2.2                     @System
 open-lldp.x86_64                                  1.1+77.75e83b6fb98e-1.1       @System
 openSUSE-build-key.x86_64                         1.0-48.1                      @System
