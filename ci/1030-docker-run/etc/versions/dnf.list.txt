@@ -282,8 +282,8 @@ open-iscsi.x86_64                                 2.1.9-104.1                   
 open-isns.x86_64                                  0.102-2.2                     @System
 open-lldp.x86_64                                  1.1+77.75e83b6fb98e-1.1       @System
 openSUSE-build-key.x86_64                         1.0-48.1                      @System
-openSUSE-release.x86_64                           20231226-2664.1               @System
-openSUSE-release-appliance-docker.x86_64          20231226-2664.1               @System
+openSUSE-release.x86_64                           20231228-2666.1               @System
+openSUSE-release-appliance-docker.x86_64          20231228-2666.1               @System
 openssh-common.x86_64                             9.3p2-5.1                     @System
 openssh-fips.x86_64                               9.3p2-5.1                     @System
 openssh-server.x86_64                             9.3p2-5.1                     @System
@@ -378,7 +378,7 @@ sysuser-shadow.noarch                             3.2-2.1                       
 tar.x86_64                                        1.35-1.1                      @System
 terminfo-base.x86_64                              6.4.20231202-27.1             @System
 thin-provisioning-tools.x86_64                    1.0.9-1.1                     @System
-timezone.x86_64                                   2023c-1.5                     @System
+timezone.x86_64                                   2023d-1.1                     @System
 tukit.x86_64                                      4.5.0-1.1                     @System
 typelib-1_0-Modulemd-2_0.x86_64                   2.15.0-1.1                    @System
 udev.x86_64                                       254.5-8.1                     @System
