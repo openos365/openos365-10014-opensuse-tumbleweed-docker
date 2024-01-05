@@ -282,8 +282,8 @@ open-iscsi.x86_64                                 2.1.9-104.1                   
 open-isns.x86_64                                  0.102-2.2                     @System
 open-lldp.x86_64                                  1.1+77.75e83b6fb98e-1.1       @System
 openSUSE-build-key.x86_64                         1.0-48.1                      @System
-openSUSE-release.x86_64                           20231228-2666.1               @System
-openSUSE-release-appliance-docker.x86_64          20231228-2666.1               @System
+openSUSE-release.x86_64                           20240103-2669.1               @System
+openSUSE-release-appliance-docker.x86_64          20240103-2669.1               @System
 openssh-common.x86_64                             9.3p2-5.1                     @System
 openssh-fips.x86_64                               9.3p2-5.1                     @System
 openssh-server.x86_64                             9.3p2-5.1                     @System
@@ -361,7 +361,7 @@ shadow.x86_64                                     4.14.2-1.1                    
 shared-mime-info.x86_64                           2.4-1.1                       @System
 snapper.x86_64                                    0.10.7-1.2                    @System
 squashfs.x86_64                                   4.6.1-2.2                     @System
-sudo.x86_64                                       1.9.15p4-1.1                  @System
+sudo.x86_64                                       1.9.15p5-1.1                  @System
 suse-module-tools.x86_64                          16.0.39-1.1                   @System
 system-group-hardware.noarch                      20170617-25.2                 @System
 system-group-kvm.noarch                           20170617-25.2                 @System
