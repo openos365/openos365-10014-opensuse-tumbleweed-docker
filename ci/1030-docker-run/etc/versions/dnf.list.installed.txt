@@ -327,7 +327,7 @@ python311-cssselect.noarch                        1.2.0-2.4                     
 python311-curses.x86_64                           3.11.6-2.1                    @System
 python311-docopt.noarch                           0.6.2-8.2                     @System
 python311-gobject.x86_64                          3.46.0-1.2                    @System
-python311-gpg.x86_64                              1.23.2-2.1                    @System
+python311-gpg.x86_64                              1.23.2-3.1                    @System
 python311-idna.noarch                             3.6-1.1                       @System
 python311-iniconfig.noarch                        2.0.0-4.1                     @System
 python311-lxml.x86_64                             4.9.4-1.1                     @System
