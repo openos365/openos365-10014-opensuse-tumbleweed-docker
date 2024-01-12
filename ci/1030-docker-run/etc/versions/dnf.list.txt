@@ -58,8 +58,8 @@ findutils.x86_64                                  4.9.0-3.2                     
 gawk.x86_64                                       5.3.0-1.2                     @System
 gio-branding-openSUSE.noarch                      42.1-20.8                     @System
 girepository-1_0.x86_64                           1.78.1-2.1                    @System
-git.x86_64                                        2.43.0-2.1                    @System
-git-core.x86_64                                   2.43.0-2.1                    @System
+git.x86_64                                        2.43.0-3.1                    @System
+git-core.x86_64                                   2.43.0-3.1                    @System
 glib2-tools.x86_64                                2.78.3-1.1                    @System
 glibc.x86_64                                      2.38-8.1                      @System
 glibc-locale-base.x86_64                          2.38-8.1                      @System
@@ -207,7 +207,7 @@ libpmem1.x86_64                                   1.11.1-1.9                    
 libpng16-16.x86_64                                1.6.40-1.2                    @System
 libpopt0.x86_64                                   1.19-1.6                      @System
 libprocps8.x86_64                                 3.3.17-16.1                   @System
-libprotobuf-lite23_4_0.x86_64                     23.4-8.1                      @System
+libprotobuf-lite25_1_0.x86_64                     25.1-9.1                      @System
 libproxy1.x86_64                                  0.5.3-1.1                     @System
 libpsl5.x86_64                                    0.21.2-1.5                    @System
 libpwquality1.x86_64                              1.4.5-2.1                     @System
@@ -266,7 +266,7 @@ libz1.x86_64                                      1.3-1.1                       
 libzck1.x86_64                                    1.3.2-1.1                     @System
 libzio1.x86_64                                    1.08-2.8                      @System
 libzstd1.x86_64                                   1.5.5-3.5                     @System
-libzypp.x86_64                                    17.31.27-1.1                  @System
+libzypp.x86_64                                    17.31.27-1.2                  @System
 login_defs.noarch                                 4.14.2-1.1                    @System
 lsb-release.noarch                                3.3-1.1                       @System
 lsof.x86_64                                       4.99.3-1.1                    @System
@@ -282,8 +282,8 @@ open-iscsi.x86_64                                 2.1.9-104.1                   
 open-isns.x86_64                                  0.102-2.2                     @System
 open-lldp.x86_64                                  1.1+77.75e83b6fb98e-1.1       @System
 openSUSE-build-key.x86_64                         1.0-48.1                      @System
-openSUSE-release.x86_64                           20240109-2681.1               @System
-openSUSE-release-appliance-docker.x86_64          20240109-2681.1               @System
+openSUSE-release.x86_64                           20240110-2683.1               @System
+openSUSE-release-appliance-docker.x86_64          20240110-2683.1               @System
 openssh-common.x86_64                             9.3p2-5.1                     @System
 openssh-fips.x86_64                               9.3p2-5.1                     @System
 openssh-server.x86_64                             9.3p2-5.1                     @System
@@ -299,7 +299,7 @@ patterns-base-minimal_base.x86_64                 20200505-46.1                 
 perl.x86_64                                       5.38.2-1.1                    @System
 perl-Bootloader.x86_64                            1.10-1.1                      @System
 perl-Error.noarch                                 0.17029-1.17                  @System
-perl-Git.x86_64                                   2.43.0-2.1                    @System
+perl-Git.x86_64                                   2.43.0-3.1                    @System
 perl-base.x86_64                                  5.38.2-1.1                    @System
 permissions.x86_64                                1699_20230602-2.1             @System
 permissions-config.noarch                         1699_20230602-2.1             @System
