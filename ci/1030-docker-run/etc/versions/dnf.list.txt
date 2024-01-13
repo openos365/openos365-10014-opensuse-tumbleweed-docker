@@ -271,7 +271,7 @@ login_defs.noarch                                 4.14.2-2.1                    
 lsb-release.noarch                                3.3-1.1                       @System
 lsof.x86_64                                       4.99.3-1.1                    @System
 lvm2.x86_64                                       2.03.22-1.1                   @System
-mdadm.x86_64                                      4.2-10.1                      @System
+mdadm.x86_64                                      4.2-11.1                      @System
 microdnf.x86_64                                   3.9.1-1.5                     @System
 mtools.x86_64                                     4.0.43-1.4                    @System
 nbd.x86_64                                        3.25-1.2                      @System
