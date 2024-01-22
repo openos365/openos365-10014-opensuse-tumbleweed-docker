@@ -148,7 +148,6 @@ libgpg-error0.x86_64                              1.47-2.1                      
 libgpgme11.x86_64                                 1.23.2-3.1                    @System
 libhidapi-hidraw0.x86_64                          0.14.0-1.1                    @System
 libhogweed6.x86_64                                3.9.1-2.3                     @System
-libhugetlbfs.x86_64                               2.23.0.g6b126a4-4.1           @System
 libibverbs.x86_64                                 49.0-1.2                      @System
 libibverbs1.x86_64                                49.0-1.2                      @System
 libidn2-0.x86_64                                  2.3.4-1.4                     @System
@@ -192,8 +191,8 @@ libnl3-200.x86_64                                 3.9.0-1.1                     
 libnpth0.x86_64                                   1.6-2.11                      @System
 libnss_usrfiles2.x86_64                           2.27-3.16                     @System
 libnuma1.x86_64                                   2.0.16.21.g693fee1-1.3        @System
-libnvme-mi1.x86_64                                1.6+5.g68c6ffb-2.1            @System
-libnvme1.x86_64                                   1.6+5.g68c6ffb-2.1            @System
+libnvme-mi1.x86_64                                1.7.1+0.g13ba383-2.1          @System
+libnvme1.x86_64                                   1.7.1+0.g13ba383-2.1          @System
 libopeniscsiusr0.x86_64                           0.2.0-104.1                   @System
 libopenssl1_1.x86_64                              1.1.1w-5.1                    @System
 libopenssl3.x86_64                                3.1.4-2.1                     @System
@@ -277,7 +276,7 @@ mtools.x86_64                                     4.0.43-1.4                    
 nbd.x86_64                                        3.25-1.2                      @System
 ncurses-utils.x86_64                              6.4.20240113-29.1             @System
 netcfg.noarch                                     11.6-13.1                     @System
-nvme-cli.x86_64                                   2.6-6.1                       @System
+nvme-cli.x86_64                                   2.7.1-1.1                     @System
 open-iscsi.x86_64                                 2.1.9-104.1                   @System
 open-isns.x86_64                                  0.102-2.2                     @System
 open-lldp.x86_64                                  1.1+106.74c0600a8692-1.1      @System
