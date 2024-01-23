@@ -340,6 +340,7 @@ python311-setuptools.noarch                       69.0.2-1.1                    
 python311-simplejson.x86_64                       3.19.2-1.1                    @System
 python311-six.noarch                              1.16.0-4.1                    @System
 python311-urllib3.noarch                          2.1.0-2.1                     @System
+python311-xmltodict.noarch                        0.13.0-2.3                    @System
 qemu.x86_64                                       8.1.3-1.1                     @System
 qemu-accel-tcg-x86.x86_64                         8.1.3-1.1                     @System
 qemu-img.x86_64                                   8.1.3-1.1                     @System
