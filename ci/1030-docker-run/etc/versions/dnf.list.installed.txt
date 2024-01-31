@@ -132,7 +132,7 @@ libfdt1.x86_64                                    1.7.0-1.3                     
 libffi8.x86_64                                    3.4.4-2.1                     @System
 libfido2-1.x86_64                                 1.14.0-1.1                    @System
 libgcc_s1.x86_64                                  13.2.1+git8250-1.1            @System
-libgcrypt20.x86_64                                1.10.3-2.1                    @System
+libgcrypt20.x86_64                                1.10.3-3.1                    @System
 libgdbm6.x86_64                                   1.23-3.1                      @System
 libgdbm_compat4.x86_64                            1.23-3.1                      @System
 libgio-2_0-0.x86_64                               2.78.3-1.1                    @System
@@ -184,7 +184,7 @@ libmpfr6.x86_64                                   4.2.1-1.2                     
 libncurses6.x86_64                                6.4.20240120-30.1             @System
 libndctl6.x86_64                                  78-2.2                        @System
 libnettle8.x86_64                                 3.9.1-2.3                     @System
-libnghttp2-14.x86_64                              1.58.0-1.1                    @System
+libnghttp2-14.x86_64                              1.59.0-1.1                    @System
 libnl-config.noarch                               3.9.0-1.1                     @System
 libnl3-200.x86_64                                 3.9.0-1.1                     @System
 libnpth0.x86_64                                   1.6-2.11                      @System
@@ -280,8 +280,8 @@ open-iscsi.x86_64                                 2.1.9-104.1                   
 open-isns.x86_64                                  0.102-2.2                     @System
 open-lldp.x86_64                                  1.1+106.74c0600a8692-1.1      @System
 openSUSE-build-key.x86_64                         1.0-48.1                      @System
-openSUSE-release.x86_64                           20240128-2712.1               @System
-openSUSE-release-appliance-docker.x86_64          20240128-2712.1               @System
+openSUSE-release.x86_64                           20240129-2715.1               @System
+openSUSE-release-appliance-docker.x86_64          20240129-2715.1               @System
 openssh-common.x86_64                             9.3p2-5.1                     @System
 openssh-fips.x86_64                               9.3p2-5.1                     @System
 openssh-server.x86_64                             9.3p2-5.1                     @System
