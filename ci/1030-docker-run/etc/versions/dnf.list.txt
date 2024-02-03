@@ -68,7 +68,7 @@ gptfdisk.x86_64                                   1.0.9-4.1                     
 grep.x86_64                                       3.11-2.2                      @System
 gzip.x86_64                                       1.13-2.1                      @System
 info.x86_64                                       7.0.3-1.8                     @System
-iproute2.x86_64                                   6.6-1.1                       @System
+iproute2.x86_64                                   6.7-1.1                       @System
 kbd.x86_64                                        2.6.4-1.1                     @System
 kbd-legacy.noarch                                 2.6.4-1.1                     @System
 kexec-tools.x86_64                                2.0.27-3.1                    @System
