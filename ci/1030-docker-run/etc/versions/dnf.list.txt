@@ -82,7 +82,7 @@ kmod.x86_64                                       31-2.2                        
 kpartx.x86_64                                     0.9.7+93+suse.e2f2272-1.2     @System
 krb5.x86_64                                       1.21.2-1.2                    @System
 less.x86_64                                       643-2.2                       @System
-libabsl2308_0_0.x86_64                            20230802.1-2.2                @System
+libabsl2308_0_0.x86_64                            20230802.1-3.1                @System
 libacl1.x86_64                                    2.3.1-2.13                    @System
 libaio1.x86_64                                    0.3.113-3.2                   @System
 libalternatives1.x86_64                           1.2+30.a5431e9-1.4            @System
@@ -270,7 +270,7 @@ libz1.x86_64                                      1.3-1.2                       
 libzck1.x86_64                                    1.4.0-1.2                     @System
 libzio1.x86_64                                    1.09-1.1                      @System
 libzstd1.x86_64                                   1.5.5-5.2                     @System
-libzypp.x86_64                                    17.31.28-1.5                  @System
+libzypp.x86_64                                    17.31.31-1.1                  @System
 login_defs.noarch                                 4.14.3-1.3                    @System
 lsb-release.noarch                                3.3-1.2                       @System
 lsof.x86_64                                       4.99.3-1.2                    @System
@@ -286,8 +286,8 @@ open-iscsi.x86_64                                 2.1.9-104.2                   
 open-isns.x86_64                                  0.102-2.3                     @System
 open-lldp.x86_64                                  1.1+106.74c0600a8692-1.2      @System
 openSUSE-build-key.x86_64                         1.0-48.2                      @System
-openSUSE-release.x86_64                           20240208-2735.1               @System
-openSUSE-release-appliance-docker.x86_64          20240208-2735.1               @System
+openSUSE-release.x86_64                           20240209-2737.1               @System
+openSUSE-release-appliance-docker.x86_64          20240209-2737.1               @System
 openssh-common.x86_64                             9.3p2-5.3                     @System
 openssh-fips.x86_64                               9.3p2-5.3                     @System
 openssh-server.x86_64                             9.3p2-5.3                     @System
