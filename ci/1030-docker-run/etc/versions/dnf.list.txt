@@ -193,7 +193,7 @@ libnl-config.noarch                               3.9.0-1.2                     
 libnl3-200.x86_64                                 3.9.0-1.2                     @System
 libnpth0.x86_64                                   1.6-2.12                      @System
 libnss_usrfiles2.x86_64                           2.27-3.17                     @System
-libnuma1.x86_64                                   2.0.17.8.g67984e5-1.1         @System
+libnuma1.x86_64                                   2.0.18.0.g3871b1c-1.1         @System
 libnvme-mi1.x86_64                                1.7.1+0.g13ba383-2.2          @System
 libnvme1.x86_64                                   1.7.1+0.g13ba383-2.2          @System
 libopeniscsiusr0.x86_64                           0.2.0-104.2                   @System
@@ -350,7 +350,7 @@ qemu.x86_64                                       8.2.0-1.1                     
 qemu-accel-tcg-x86.x86_64                         8.2.0-1.1                     @System
 qemu-img.x86_64                                   8.2.0-1.1                     @System
 qemu-ipxe.noarch                                  1.0.0+-1.1                    @System
-qemu-ovmf-x86_64.noarch                           202308-3.4                    @System
+qemu-ovmf-x86_64.noarch                           202308-3.5                    @System
 qemu-seabios.noarch                               1.16.3_3_ga95067eb-1.1        @System
 qemu-vgabios.noarch                               1.16.3_3_ga95067eb-1.1        @System
 qemu-x86.x86_64                                   8.2.0-1.1                     @System
