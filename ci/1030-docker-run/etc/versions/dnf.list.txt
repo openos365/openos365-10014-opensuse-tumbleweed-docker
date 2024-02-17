@@ -1,4 +1,4 @@
-aaa_base.x86_64                                   84.87+git20231023.f347d36-1.2 @System
+aaa_base.x86_64                                   84.87+git20240202.9526d46-1.1 @System
 acl.x86_64                                        2.3.1-2.13                    @System
 afterburn.x86_64                                  5.4.1-1.6                     @System
 afterburn-dracut.x86_64                           5.4.1-1.6                     @System
@@ -23,7 +23,7 @@ cracklib.x86_64                                   2.9.11-1.3                    
 cracklib-dict-small.x86_64                        2.9.11-1.3                    @System
 crypto-policies.noarch                            20230920.570ea89-3.1          @System
 cryptsetup.x86_64                                 2.7.0-1.2                     @System
-curl.x86_64                                       8.6.0-1.2                     @System
+curl.x86_64                                       8.6.0-2.1                     @System
 dbus-1.x86_64                                     1.14.10-2.2                   @System
 dbus-1-common.noarch                              1.14.10-2.2                   @System
 dbus-1-daemon.x86_64                              1.14.10-2.2                   @System
@@ -93,7 +93,7 @@ libassuan0.x86_64                                 2.5.6-1.3                     
 libattr1.x86_64                                   2.5.1-1.29                    @System
 libaudit1.x86_64                                  3.1.1-1.5                     @System
 libaugeas0.x86_64                                 1.14.1-1.2                    @System
-libblkid1.x86_64                                  2.39.3-3.3                    @System
+libblkid1.x86_64                                  2.39.3-4.1                    @System
 libboost_thread1_84_0.x86_64                      1.84.0-1.2                    @System
 libbpf1.x86_64                                    1.3.0-1.2                     @System
 libbrotlicommon1.x86_64                           1.1.0-1.2                     @System
@@ -114,7 +114,7 @@ libcrypt1.x86_64                                  4.4.36-1.5                    
 libcryptsetup12.x86_64                            2.7.0-1.2                     @System
 libctf-nobfd0.x86_64                              2.41-1.3                      @System
 libctf0.x86_64                                    2.41-1.3                      @System
-libcurl4.x86_64                                   8.6.0-1.2                     @System
+libcurl4.x86_64                                   8.6.0-2.1                     @System
 libdb-4_8.x86_64                                  4.8.30-42.5                   @System
 libdbus-1-3.x86_64                                1.14.10-2.2                   @System
 libdevmapper-event1_03.x86_64                     2.03.22_1.02.196-1.2          @System
@@ -131,7 +131,7 @@ libexpat1.x86_64                                  2.5.0-2.7                     
 libexslt0.x86_64                                  1.1.39-1.2                    @System
 libext2fs2.x86_64                                 1.47.0-3.2                    @System
 libfa1.x86_64                                     1.14.1-1.2                    @System
-libfdisk1.x86_64                                  2.39.3-3.3                    @System
+libfdisk1.x86_64                                  2.39.3-4.1                    @System
 libfdt1.x86_64                                    1.7.0-1.4                     @System
 libffi8.x86_64                                    3.4.4-2.2                     @System
 libfido2-1.x86_64                                 1.14.0-1.2                    @System
@@ -182,10 +182,10 @@ libmlx4-1.x86_64                                  49.1-1.2                      
 libmlx5-1.x86_64                                  49.1-1.2                      @System
 libmnl0.x86_64                                    1.0.5-1.6                     @System
 libmodulemd2.x86_64                               2.15.0-1.3                    @System
-libmount1.x86_64                                  2.39.3-3.3                    @System
+libmount1.x86_64                                  2.39.3-4.1                    @System
 libmpdec3.x86_64                                  2.5.1-2.18                    @System
 libmpfr6.x86_64                                   4.2.1-1.3                     @System
-libncurses6.x86_64                                6.4.20240120-30.2             @System
+libncurses6.x86_64                                6.4.20240210-31.1             @System
 libndctl6.x86_64                                  78-2.3                        @System
 libnettle8.x86_64                                 3.9.1-2.4                     @System
 libnghttp2-14.x86_64                              1.59.0-1.2                    @System
@@ -229,7 +229,7 @@ libsepol2.x86_64                                  3.6-1.2                       
 libsha1detectcoll1.x86_64                         1.0.3-4.21                    @System
 libsigc-2_0-0.x86_64                              2.12.1-2.2                    @System
 libslirp0.x86_64                                  4.7.0+60-1.2                  @System
-libsmartcols1.x86_64                              2.39.3-3.3                    @System
+libsmartcols1.x86_64                              2.39.3-4.1                    @System
 libsnapper7.x86_64                                0.10.7-1.3                    @System
 libsnappy1.x86_64                                 1.1.10-1.2                    @System
 libsolv-tools.x86_64                              0.7.28-1.5                    @System
@@ -237,7 +237,7 @@ libsqlite3-0.x86_64                               3.44.2-1.2                    
 libssh-config.x86_64                              0.10.6-1.2                    @System
 libssh4.x86_64                                    0.10.6-1.2                    @System
 libstdc++6.x86_64                                 13.2.1+git8285-1.1            @System
-libsubid4.x86_64                                  4.14.3-1.3                    @System
+libsubid4.x86_64                                  4.14.5-1.1                    @System
 libsystemd0.x86_64                                254.8-4.1                     @System
 libtasn1-6.x86_64                                 4.19.0-1.6                    @System
 libtirpc-netconfig.x86_64                         1.3.4-1.2                     @System
@@ -253,7 +253,7 @@ liburcu8.x86_64                                   0.14.0-1.4                    
 liburing2.x86_64                                  2.4-4.2                       @System
 libusb-1_0-0.x86_64                               1.0.27-1.1                    @System
 libutempter0.x86_64                               1.2.1-1.6                     @System
-libuuid1.x86_64                                   2.39.3-3.3                    @System
+libuuid1.x86_64                                   2.39.3-4.1                    @System
 libvdeplug3.x86_64                                2.3.2+svn587-3.25             @System
 libverto1.x86_64                                  0.3.2-3.2                     @System
 libwrap0.x86_64                                   7.6-895.7                     @System
@@ -271,7 +271,7 @@ libzck1.x86_64                                    1.4.0-1.2                     
 libzio1.x86_64                                    1.09-1.1                      @System
 libzstd1.x86_64                                   1.5.5-5.2                     @System
 libzypp.x86_64                                    17.31.31-1.1                  @System
-login_defs.noarch                                 4.14.3-1.3                    @System
+login_defs.noarch                                 4.14.5-1.1                    @System
 lsb-release.noarch                                3.3-1.2                       @System
 lsof.x86_64                                       4.99.3-1.2                    @System
 lvm2.x86_64                                       2.03.22-1.2                   @System
@@ -279,15 +279,15 @@ mdadm.x86_64                                      4.2-11.2                      
 microdnf.x86_64                                   3.9.1-1.7                     @System
 mtools.x86_64                                     4.0.43-1.5                    @System
 nbd.x86_64                                        3.25-1.3                      @System
-ncurses-utils.x86_64                              6.4.20240120-30.2             @System
+ncurses-utils.x86_64                              6.4.20240210-31.1             @System
 netcfg.noarch                                     11.6-13.2                     @System
 nvme-cli.x86_64                                   2.7.1-1.2                     @System
 open-iscsi.x86_64                                 2.1.9-104.2                   @System
 open-isns.x86_64                                  0.102-2.3                     @System
 open-lldp.x86_64                                  1.1+106.74c0600a8692-1.2      @System
 openSUSE-build-key.x86_64                         1.0-48.2                      @System
-openSUSE-release.x86_64                           20240214-2745.1               @System
-openSUSE-release-appliance-docker.x86_64          20240214-2745.1               @System
+openSUSE-release.x86_64                           20240216-2750.1               @System
+openSUSE-release-appliance-docker.x86_64          20240216-2750.1               @System
 openssh-common.x86_64                             9.3p2-5.3                     @System
 openssh-fips.x86_64                               9.3p2-5.3                     @System
 openssh-server.x86_64                             9.3p2-5.3                     @System
@@ -361,8 +361,8 @@ rpm-config-SUSE.noarch                            20240118-1.2                  
 rsync.x86_64                                      3.2.7-6.2                     @System
 screen.x86_64                                     4.9.1-1.4                     @System
 sed.x86_64                                        4.9-2.5                       @System
-shadow.x86_64                                     4.14.3-1.3                    @System
-shared-mime-info.x86_64                           2.4-1.2                       @System
+shadow.x86_64                                     4.14.5-1.1                    @System
+shared-mime-info.x86_64                           2.4-2.1                       @System
 snapper.x86_64                                    0.10.7-1.3                    @System
 squashfs.x86_64                                   4.6.1-2.3                     @System
 sudo.x86_64                                       1.9.15p5-1.2                  @System
@@ -380,14 +380,14 @@ systemd-presets-common-SUSE.noarch                15-32.1                       
 systemd-rpm-macros.noarch                         24-1.5                        @System
 sysuser-shadow.noarch                             3.2-2.2                       @System
 tar.x86_64                                        1.35-1.2                      @System
-terminfo-base.x86_64                              6.4.20240120-30.2             @System
+terminfo-base.x86_64                              6.4.20240210-31.1             @System
 thin-provisioning-tools.x86_64                    1.0.11-1.1                    @System
 timezone.x86_64                                   2024a-1.1                     @System
 tukit.x86_64                                      4.5.0-2.3                     @System
 typelib-1_0-Modulemd-2_0.x86_64                   2.15.0-1.3                    @System
 udev.x86_64                                       254.8-4.1                     @System
 update-alternatives.x86_64                        1.22.2-1.2                    @System
-util-linux.x86_64                                 2.39.3-3.3                    @System
+util-linux.x86_64                                 2.39.3-4.1                    @System
 util-linux-systemd.x86_64                         2.39.3-3.2                    @System
 which.x86_64                                      2.21-5.13                     @System
 xen-libs.x86_64                                   4.18.0_06-1.2                 @System
