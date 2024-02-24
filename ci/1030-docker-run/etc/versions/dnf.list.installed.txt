@@ -86,7 +86,7 @@ libacl1.x86_64                                    2.3.2-1.1                     
 libaio1.x86_64                                    0.3.113-3.2                   @System
 libalternatives1.x86_64                           1.2+30.a5431e9-1.4            @System
 libapparmor1.x86_64                               3.1.7-3.1                     @System
-libargon2-1.x86_64                                20190702-3.2                  @System
+libargon2-1.x86_64                                20190702-4.1                  @System
 libasm1.x86_64                                    0.190-1.2                     @System
 libassuan0.x86_64                                 2.5.6-1.3                     @System
 libattr1.x86_64                                   2.5.2-1.1                     @System
@@ -217,7 +217,7 @@ libpython3_11-1_0.x86_64                          3.11.8-2.1                    
 librdmacm1.x86_64                                 49.1-2.1                      @System
 libreadline8.x86_64                               8.2.10-1.2                    @System
 librepo0.x86_64                                   1.17.0-1.2                    @System
-librpmbuild10.x86_64                              4.19.1.1-1.1                  @System
+librpmbuild10.x86_64                              4.19.1.1-2.1                  @System
 libsasl2-3.x86_64                                 2.1.28-6.2                    @System
 libseccomp2.x86_64                                2.5.5-1.2                     @System
 libselinux1.x86_64                                3.6-1.2                       @System
@@ -252,7 +252,7 @@ liburing2.x86_64                                  2.4-4.2                       
 libusb-1_0-0.x86_64                               1.0.27-1.1                    @System
 libutempter0.x86_64                               1.2.1-2.1                     @System
 libuuid1.x86_64                                   2.39.3-4.1                    @System
-libvdeplug3.x86_64                                2.3.2+svn587-3.25             @System
+libvdeplug3.x86_64                                2.3.2+svn587-4.1              @System
 libverto1.x86_64                                  0.3.2-3.2                     @System
 libwrap0.x86_64                                   7.6-895.7                     @System
 libwtmpdb0.x86_64                                 0.11.0-1.2                    @System
@@ -330,7 +330,7 @@ python311-cssselect.noarch                        1.2.0-2.7                     
 python311-curses.x86_64                           3.11.8-2.1                    @System
 python311-docopt.noarch                           0.6.2-9.4                     @System
 python311-gobject.x86_64                          3.46.0-1.5                    @System
-python311-gpg.x86_64                              1.23.2-3.4                    @System
+python311-gpg.x86_64                              1.23.2-4.1                    @System
 python311-idna.noarch                             3.6-1.4                       @System
 python311-iniconfig.noarch                        2.0.0-4.4                     @System
 python311-lxml.x86_64                             5.1.0-3.1                     @System
@@ -338,7 +338,7 @@ python311-py.noarch                               1.11.0-6.4                    
 python311-pyOpenSSL.noarch                        24.0.0-1.4                    @System
 python311-pycparser.noarch                        2.21-2.6                      @System
 python311-requests.noarch                         2.31.0-2.4                    @System
-python311-rpm.x86_64                              4.19.1.1-1.1                  @System
+python311-rpm.x86_64                              4.19.1.1-2.1                  @System
 python311-setuptools.noarch                       69.0.3-1.3                    @System
 python311-simplejson.x86_64                       3.19.2-1.4                    @System
 python311-six.noarch                              1.16.0-4.4                    @System
