@@ -283,8 +283,8 @@ open-iscsi.x86_64                                 2.1.9-104.2                   
 open-isns.x86_64                                  0.102-2.3                     @System
 open-lldp.x86_64                                  1.1+106.74c0600a8692-1.2      @System
 openSUSE-build-key.x86_64                         1.0-48.2                      @System
-openSUSE-release.x86_64                           20240223-2763.1               @System
-openSUSE-release-appliance-docker.x86_64          20240223-2763.1               @System
+openSUSE-release.x86_64                           20240225-2765.1               @System
+openSUSE-release-appliance-docker.x86_64          20240225-2765.1               @System
 openssh-common.x86_64                             9.3p2-5.3                     @System
 openssh-fips.x86_64                               9.3p2-5.3                     @System
 openssh-server.x86_64                             9.3p2-5.3                     @System
@@ -293,7 +293,7 @@ openssl-3.x86_64                                  3.1.4-4.1                     
 osc.noarch                                        1.6.0-1.2                     @System
 p11-kit.x86_64                                    0.25.3-1.2                    @System
 p11-kit-tools.x86_64                              0.25.3-1.2                    @System
-pam.x86_64                                        1.6.0-3.1                     @System
+pam.x86_64                                        1.6.0-4.1                     @System
 pam-config.x86_64                                 2.11-1.1                      @System
 patterns-base-fips.x86_64                         20200505-47.1                 @System
 patterns-base-minimal_base.x86_64                 20200505-47.1                 @System
