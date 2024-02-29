@@ -51,7 +51,7 @@ elfutils.x86_64                                   0.190-1.2                     
 evmctl.x86_64                                     1.5-2.2                       @System
 fcoe-utils.x86_64                                 1.0.34-5.1                    @System
 file.x86_64                                       5.45-1.5                      @System
-file-magic.noarch                                 5.45-1.5                      @System
+file-magic.noarch                                 5.45-2.1                      @System
 filesystem.x86_64                                 84.87-15.2                    @System
 fillup.x86_64                                     1.42-280.2                    @System
 findutils.x86_64                                  4.9.0-3.3                     @System
@@ -144,7 +144,7 @@ libgmp10.x86_64                                   6.3.0-2.3                     
 libgnutls30.x86_64                                3.8.3-2.1                     @System
 libgobject-2_0-0.x86_64                           2.78.3-1.2                    @System
 libgomp1.x86_64                                   14.0.1+git8957-1.2            @System
-libgpg-error0.x86_64                              1.47-2.2                      @System
+libgpg-error0.x86_64                              1.48-1.1                      @System
 libgpgme11.x86_64                                 1.23.2-4.1                    @System
 libhidapi-hidraw0.x86_64                          0.14.0-1.2                    @System
 libhogweed6.x86_64                                3.9.1-2.4                     @System
@@ -172,7 +172,7 @@ liblvm2cmd2_03.x86_64                             2.03.22-1.2                   
 liblz4-1.x86_64                                   1.9.4-2.7                     @System
 liblzma5.x86_64                                   5.4.6-1.2                     @System
 liblzo2-2.x86_64                                  2.10-8.5                      @System
-libmagic1.x86_64                                  5.45-1.5                      @System
+libmagic1.x86_64                                  5.45-2.1                      @System
 libmana1.x86_64                                   49.1-2.1                      @System
 libmediacheck6.x86_64                             6.2-1.5                       @System
 libmlx4-1.x86_64                                  49.1-2.1                      @System
@@ -182,7 +182,7 @@ libmodulemd2.x86_64                               2.15.0-1.3                    
 libmount1.x86_64                                  2.39.3-4.1                    @System
 libmpdec3.x86_64                                  2.5.1-2.18                    @System
 libmpfr6.x86_64                                   4.2.1-1.3                     @System
-libncurses6.x86_64                                6.4.20240210-31.1             @System
+libncurses6.x86_64                                6.4.20240224-32.1             @System
 libndctl6.x86_64                                  78-2.4                        @System
 libnettle8.x86_64                                 3.9.1-2.4                     @System
 libnghttp2-14.x86_64                              1.59.0-1.2                    @System
@@ -262,7 +262,7 @@ libxxhash0.x86_64                                 0.8.2-2.2                     
 libyajl2.x86_64                                   2.1.0-8.4                     @System
 libyaml-0-2.x86_64                                0.2.5-2.4                     @System
 libyaml-cpp0_8.x86_64                             0.8.0-1.2                     @System
-libz1.x86_64                                      1.3-2.1                       @System
+libz1.x86_64                                      1.3.1-1.1                     @System
 libzck1.x86_64                                    1.4.0-2.1                     @System
 libzio1.x86_64                                    1.09-1.1                      @System
 libzstd1.x86_64                                   1.5.5-5.2                     @System
@@ -275,15 +275,15 @@ mdadm.x86_64                                      4.3-1.1                       
 microdnf.x86_64                                   3.9.1-1.7                     @System
 mtools.x86_64                                     4.0.43-2.1                    @System
 nbd.x86_64                                        3.25-1.3                      @System
-ncurses-utils.x86_64                              6.4.20240210-31.1             @System
+ncurses-utils.x86_64                              6.4.20240224-32.1             @System
 netcfg.noarch                                     11.6-13.2                     @System
 nvme-cli.x86_64                                   2.8-1.1                       @System
 open-iscsi.x86_64                                 2.1.9-104.2                   @System
 open-isns.x86_64                                  0.102-2.3                     @System
 open-lldp.x86_64                                  1.1+106.74c0600a8692-1.2      @System
 openSUSE-build-key.x86_64                         1.0-48.2                      @System
-openSUSE-release.x86_64                           20240227-2769.1               @System
-openSUSE-release-appliance-docker.x86_64          20240227-2769.1               @System
+openSUSE-release.x86_64                           20240228-2772.1               @System
+openSUSE-release-appliance-docker.x86_64          20240228-2772.1               @System
 openssh-common.x86_64                             9.6p1-1.1                     @System
 openssh-fips.x86_64                               9.6p1-1.1                     @System
 openssh-server.x86_64                             9.6p1-1.1                     @System
@@ -376,7 +376,7 @@ systemd-presets-common-SUSE.noarch                15-32.1                       
 systemd-rpm-macros.noarch                         24-1.5                        @System
 sysuser-shadow.noarch                             3.2-2.2                       @System
 tar.x86_64                                        1.35-1.2                      @System
-terminfo-base.x86_64                              6.4.20240210-31.1             @System
+terminfo-base.x86_64                              6.4.20240224-32.1             @System
 thin-provisioning-tools.x86_64                    1.0.12-1.1                    @System
 timezone.x86_64                                   2024a-1.1                     @System
 tukit.x86_64                                      4.5.0-2.3                     @System
