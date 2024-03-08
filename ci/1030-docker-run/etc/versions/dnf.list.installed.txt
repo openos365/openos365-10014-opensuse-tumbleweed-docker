@@ -14,7 +14,7 @@ busybox.x86_64                                    1.36.1-3.2                    
 ca-certificates.noarch                            2+git20230406.2dae8b7-1.3     @System
 ca-certificates-mozilla.noarch                    2.66-1.1                      @System
 canokey-qemu.x86_64                               0.0+git20230606.151568c-2.2   @System
-checkmedia.x86_64                                 6.2-1.5                       @System
+checkmedia.x86_64                                 6.3-1.1                       @System
 chkstat.x86_64                                    1699_20240206-1.1             @System
 coreutils.x86_64                                  9.4-5.1                       @System
 cpio.x86_64                                       2.15-2.1                      @System
@@ -169,7 +169,7 @@ liblzma5.x86_64                                   5.4.6-1.2                     
 liblzo2-2.x86_64                                  2.10-8.5                      @System
 libmagic1.x86_64                                  5.45-2.1                      @System
 libmana1.x86_64                                   49.1-2.1                      @System
-libmediacheck6.x86_64                             6.2-1.5                       @System
+libmediacheck6.x86_64                             6.3-1.1                       @System
 libmlx4-1.x86_64                                  49.1-2.1                      @System
 libmlx5-1.x86_64                                  49.1-2.1                      @System
 libmnl0.x86_64                                    1.0.5-1.6                     @System
