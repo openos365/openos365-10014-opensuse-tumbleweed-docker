@@ -69,8 +69,8 @@ gptfdisk.x86_64                                   1.0.9-4.2                     
 grep.x86_64                                       3.11-2.3                      @System
 gzip.x86_64                                       1.13-3.1                      @System
 iproute2.x86_64                                   6.7-1.2                       @System
-kbd.x86_64                                        2.6.4-2.1                     @System
-kbd-legacy.noarch                                 2.6.4-2.1                     @System
+kbd.x86_64                                        2.6.4-3.1                     @System
+kbd-legacy.noarch                                 2.6.4-3.1                     @System
 kexec-tools.x86_64                                2.0.28-1.1                    @System
 keyutils.x86_64                                   1.6.3-7.1                     @System
 kiwi-systemdeps-core.x86_64                       9.25.22-2.1                   @System
@@ -199,7 +199,7 @@ libpeas-1_0-0.x86_64                              1.36.0-1.4                    
 libpixman-1-0.x86_64                              0.42.2-2.2                    @System
 libpkgconf4.x86_64                                2.1.1-1.1                     @System
 libpmem1.x86_64                                   1.11.1-1.10                   @System
-libpng16-16.x86_64                                1.6.42-1.1                    @System
+libpng16-16.x86_64                                1.6.43-1.1                    @System
 libpopt0.x86_64                                   1.19-1.7                      @System
 libprocps8.x86_64                                 3.3.17-17.1                   @System
 libprotobuf-lite25_1_0.x86_64                     25.1-9.5                      @System
@@ -277,8 +277,8 @@ open-iscsi.x86_64                                 2.1.9-104.2                   
 open-isns.x86_64                                  0.102-2.3                     @System
 open-lldp.x86_64                                  1.1+106.74c0600a8692-1.2      @System
 openSUSE-build-key.x86_64                         1.0-48.2                      @System
-openSUSE-release.x86_64                           20240307-2788.1               @System
-openSUSE-release-appliance-docker.x86_64          20240307-2788.1               @System
+openSUSE-release.x86_64                           20240308-2790.1               @System
+openSUSE-release-appliance-docker.x86_64          20240308-2790.1               @System
 openssh-common.x86_64                             9.6p1-1.1                     @System
 openssh-fips.x86_64                               9.6p1-1.1                     @System
 openssh-server.x86_64                             9.6p1-1.1                     @System
@@ -341,7 +341,7 @@ qemu.x86_64                                       8.2.1-4.1                     
 qemu-accel-tcg-x86.x86_64                         8.2.1-4.1                     @System
 qemu-img.x86_64                                   8.2.1-4.1                     @System
 qemu-ipxe.noarch                                  8.2.1-4.1                     @System
-qemu-ovmf-x86_64.noarch                           202308-4.1                    @System
+qemu-ovmf-x86_64.noarch                           202308-5.1                    @System
 qemu-seabios.noarch                               8.2.11.16.3_3_ga95067eb-4.1   @System
 qemu-vgabios.noarch                               8.2.11.16.3_3_ga95067eb-4.1   @System
 qemu-x86.x86_64                                   8.2.1-4.1                     @System
