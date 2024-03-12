@@ -277,8 +277,8 @@ open-iscsi.x86_64                                 2.1.9-104.2                   
 open-isns.x86_64                                  0.102-2.3                     @System
 open-lldp.x86_64                                  1.1+106.74c0600a8692-1.2      @System
 openSUSE-build-key.x86_64                         1.0-48.2                      @System
-openSUSE-release.x86_64                           20240309-2792.1               @System
-openSUSE-release-appliance-docker.x86_64          20240309-2792.1               @System
+openSUSE-release.x86_64                           20240310-2794.1               @System
+openSUSE-release-appliance-docker.x86_64          20240310-2794.1               @System
 openssh-common.x86_64                             9.6p1-1.1                     @System
 openssh-fips.x86_64                               9.6p1-1.1                     @System
 openssh-server.x86_64                             9.6p1-1.1                     @System
@@ -291,11 +291,11 @@ pam.x86_64                                        1.6.0-4.1                     
 pam-config.x86_64                                 2.11-1.1                      @System
 patterns-base-fips.x86_64                         20200505-47.1                 @System
 patterns-base-minimal_base.x86_64                 20200505-47.1                 @System
-perl.x86_64                                       5.38.2-1.2                    @System
+perl.x86_64                                       5.38.2-2.1                    @System
 perl-Bootloader.x86_64                            1.12-1.1                      @System
 perl-Error.noarch                                 0.17029-1.18                  @System
 perl-Git.x86_64                                   2.44.0-1.1                    @System
-perl-base.x86_64                                  5.38.2-1.2                    @System
+perl-base.x86_64                                  5.38.2-2.1                    @System
 permissions.x86_64                                1699_20240305-1.1             @System
 permissions-config.noarch                         1699_20240305-1.1             @System
 pigz.x86_64                                       2.8-2.2                       @System
