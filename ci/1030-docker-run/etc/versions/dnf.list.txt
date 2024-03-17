@@ -57,7 +57,7 @@ filesystem.x86_64                                 84.87-15.2                    
 fillup.x86_64                                     1.42-281.1                    @System
 findutils.x86_64                                  4.9.0-4.1                     @System
 gawk.x86_64                                       5.3.0-1.3                     @System
-gio-branding-openSUSE.noarch                      42.1-20.9                     @System
+gio-branding-openSUSE.noarch                      42.1-21.1                     @System
 girepository-1_0.x86_64                           1.78.1-2.2                    @System
 git.x86_64                                        2.44.0-1.1                    @System
 git-core.x86_64                                   2.44.0-1.1                    @System
@@ -229,7 +229,7 @@ libssh-config.x86_64                              0.10.6-1.2                    
 libssh4.x86_64                                    0.10.6-1.2                    @System
 libstdc++6.x86_64                                 14.0.1+git9355-1.1            @System
 libsubid4.x86_64                                  4.14.6-1.1                    @System
-libsystemd0.x86_64                                255.3-1.2                     @System
+libsystemd0.x86_64                                255.3-1.3                     @System
 libtasn1-6.x86_64                                 4.19.0-1.6                    @System
 libtirpc-netconfig.x86_64                         1.3.4-1.2                     @System
 libtirpc3.x86_64                                  1.3.4-1.2                     @System
@@ -238,7 +238,7 @@ libtss2-mu0.x86_64                                4.0.1-4.2                     
 libtss2-rc0.x86_64                                4.0.1-4.2                     @System
 libtss2-sys1.x86_64                               4.0.1-4.2                     @System
 libtukit4.x86_64                                  4.6.0-2.1                     @System
-libudev1.x86_64                                   255.3-1.2                     @System
+libudev1.x86_64                                   255.3-1.3                     @System
 libunistring5.x86_64                              1.2-1.1                       @System
 liburcu8.x86_64                                   0.14.0-1.4                    @System
 liburing2.x86_64                                  2.4-4.2                       @System
@@ -275,9 +275,9 @@ nvme-cli.x86_64                                   2.8-1.1                       
 open-iscsi.x86_64                                 2.1.9-104.2                   @System
 open-isns.x86_64                                  0.102-2.3                     @System
 open-lldp.x86_64                                  1.1+106.74c0600a8692-1.2      @System
-openSUSE-build-key.x86_64                         1.0-49.1                      @System
-openSUSE-release.x86_64                           20240314-2805.1               @System
-openSUSE-release-appliance-docker.x86_64          20240314-2805.1               @System
+openSUSE-build-key.x86_64                         1.0-50.1                      @System
+openSUSE-release.x86_64                           20240315-2807.1               @System
+openSUSE-release-appliance-docker.x86_64          20240315-2807.1               @System
 openssh-common.x86_64                             9.6p1-1.1                     @System
 openssh-fips.x86_64                               9.6p1-1.1                     @System
 openssh-server.x86_64                             9.6p1-1.1                     @System
