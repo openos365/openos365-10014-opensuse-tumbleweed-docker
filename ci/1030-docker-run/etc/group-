@@ -18,8 +18,9 @@ render:x:490:
 sgx:x:489:
 tape:x:488:
 video:x:487:
-kvm:x:36:
+kvm:x:36:qemu
 lp:!:486:
 systemd-journal:x:485:
 rpc:x:484:
 systemd-timesync:x:483:
+qemu:x:107:
